@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="botao.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="click0000" x="0" y="0" width="433" height="510" frameX="-13" frameY="0" frameWidth="457" frameHeight="518"/>
+	<SubTexture name="click0001" x="0" y="0" width="433" height="510" frameX="-13" frameY="0" frameWidth="457" frameHeight="518"/>
+	<SubTexture name="click0002" x="433" y="0" width="433" height="475" frameX="-13" frameY="-35" frameWidth="457" frameHeight="518"/>
+	<SubTexture name="click0003" x="433" y="0" width="433" height="475" frameX="-13" frameY="-35" frameWidth="457" frameHeight="518"/>
+	<SubTexture name="click0004" x="866" y="0" width="433" height="450" frameX="-13" frameY="-60" frameWidth="457" frameHeight="518"/>
+	<SubTexture name="click0005" x="866" y="0" width="433" height="450" frameX="-13" frameY="-60" frameWidth="457" frameHeight="518"/>
+	<SubTexture name="click0006" x="1299" y="0" width="433" height="430" frameX="-13" frameY="-80" frameWidth="457" frameHeight="518"/>
+	<SubTexture name="click0007" x="1299" y="0" width="433" height="430" frameX="-13" frameY="-80" frameWidth="457" frameHeight="518"/>
+	<SubTexture name="click0008" x="0" y="510" width="457" height="394" frameX="0" frameY="-120" frameWidth="457" frameHeight="518"/>
+	<SubTexture name="click0009" x="0" y="510" width="457" height="394" frameX="0" frameY="-120" frameWidth="457" frameHeight="518"/>
+	<SubTexture name="click0010" x="457" y="510" width="433" height="404" frameX="-12" frameY="-114" frameWidth="457" frameHeight="518"/>
+	<SubTexture name="click0011" x="457" y="510" width="433" height="404" frameX="-12" frameY="-114" frameWidth="457" frameHeight="518"/>
+	<SubTexture name="click0012" x="890" y="510" width="445" height="436" frameX="-7" frameY="-74" frameWidth="457" frameHeight="518"/>
+	<SubTexture name="click0013" x="890" y="510" width="445" height="436" frameX="-7" frameY="-74" frameWidth="457" frameHeight="518"/>
+	<SubTexture name="click0014" x="1335" y="510" width="445" height="454" frameX="-7" frameY="-56" frameWidth="457" frameHeight="518"/>
+	<SubTexture name="click0015" x="1335" y="510" width="445" height="454" frameX="-7" frameY="-56" frameWidth="457" frameHeight="518"/>
+	<SubTexture name="click0016" x="0" y="964" width="445" height="477" frameX="-7" frameY="-33" frameWidth="457" frameHeight="518"/>
+	<SubTexture name="click0017" x="0" y="964" width="445" height="477" frameX="-7" frameY="-33" frameWidth="457" frameHeight="518"/>
+</TextureAtlas>

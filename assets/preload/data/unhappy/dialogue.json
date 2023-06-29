@@ -1,0 +1,28 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "you again. Do you really have willpower hum?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bob",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "make it stop"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "gay"
+		}
+	]
+}

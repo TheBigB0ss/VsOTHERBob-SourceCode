@@ -1,0 +1,121 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-160
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "bob",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				-203
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "bob left",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-13,
+				-198
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "bob down",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-110
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "bob up",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-35,
+				-154
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "bob right",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/otherbobbutpixel",
+	"position": [
+		110,
+		60
+	],
+	"healthicon": "pixel",
+	"flip_x": false,
+	"healthbar_colors": [
+		123,
+		171,
+		255
+	],
+	"camera_position": [
+		-40,
+		230
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

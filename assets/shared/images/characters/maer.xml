@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="maer.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down_quag0000" x="0" y="0" width="946" height="663" frameX="0" frameY="-38" frameWidth="946" frameHeight="714"/>
+	<SubTexture name="down_quag0001" x="946" y="0" width="880" height="706" frameX="-32" frameY="-6" frameWidth="946" frameHeight="714"/>
+	<SubTexture name="down_quag0002" x="1826" y="0" width="872" height="714" frameX="-36" frameY="0" frameWidth="946" frameHeight="714"/>
+	<SubTexture name="down_quag0003" x="1826" y="0" width="872" height="714" frameX="-36" frameY="0" frameWidth="946" frameHeight="714"/>
+	<SubTexture name="down_quag0004" x="1826" y="0" width="872" height="714" frameX="-36" frameY="0" frameWidth="946" frameHeight="714"/>
+	<SubTexture name="down_quag0005" x="1826" y="0" width="872" height="714" frameX="-36" frameY="0" frameWidth="946" frameHeight="714"/>
+	<SubTexture name="down_quag0006" x="1826" y="0" width="872" height="714" frameX="-36" frameY="0" frameWidth="946" frameHeight="714"/>
+	<SubTexture name="down_quag0007" x="1826" y="0" width="872" height="714" frameX="-36" frameY="0" frameWidth="946" frameHeight="714"/>
+	<SubTexture name="down_quag0008" x="1826" y="0" width="872" height="714" frameX="-36" frameY="0" frameWidth="946" frameHeight="714"/>
+	<SubTexture name="down_quag0009" x="1826" y="0" width="872" height="714" frameX="-36" frameY="0" frameWidth="946" frameHeight="714"/>
+	<SubTexture name="idle_quag0000" x="2698" y="0" width="362" height="697" frameX="0" frameY="-13" frameWidth="362" frameHeight="711"/>
+	<SubTexture name="idle_quag0001" x="2698" y="0" width="362" height="697" frameX="0" frameY="-13" frameWidth="362" frameHeight="711"/>
+	<SubTexture name="idle_quag0002" x="3060" y="0" width="337" height="708" frameX="-12" frameY="-3" frameWidth="362" frameHeight="711"/>
+	<SubTexture name="idle_quag0003" x="3060" y="0" width="337" height="708" frameX="-12" frameY="-3" frameWidth="362" frameHeight="711"/>
+	<SubTexture name="idle_quag0004" x="3397" y="0" width="329" height="710" frameX="-16" frameY="-1" frameWidth="362" frameHeight="711"/>
+	<SubTexture name="idle_quag0005" x="3397" y="0" width="329" height="710" frameX="-16" frameY="-1" frameWidth="362" frameHeight="711"/>
+	<SubTexture name="idle_quag0006" x="3726" y="0" width="325" height="711" frameX="-18" frameY="0" frameWidth="362" frameHeight="711"/>
+	<SubTexture name="idle_quag0007" x="3726" y="0" width="325" height="711" frameX="-18" frameY="0" frameWidth="362" frameHeight="711"/>
+	<SubTexture name="idle_quag0008" x="3726" y="0" width="325" height="711" frameX="-18" frameY="0" frameWidth="362" frameHeight="711"/>
+	<SubTexture name="idle_quag0009" x="3726" y="0" width="325" height="711" frameX="-18" frameY="0" frameWidth="362" frameHeight="711"/>
+	<SubTexture name="idle_quag0010" x="3726" y="0" width="325" height="711" frameX="-18" frameY="0" frameWidth="362" frameHeight="711"/>
+	<SubTexture name="idle_quag0011" x="3726" y="0" width="325" height="711" frameX="-18" frameY="0" frameWidth="362" frameHeight="711"/>
+	<SubTexture name="idle_quag0012" x="3726" y="0" width="325" height="711" frameX="-18" frameY="0" frameWidth="362" frameHeight="711"/>
+	<SubTexture name="idle_quag0013" x="3726" y="0" width="325" height="711" frameX="-18" frameY="0" frameWidth="362" frameHeight="711"/>
+	<SubTexture name="idle_quag0014" x="3726" y="0" width="325" height="711" frameX="-18" frameY="0" frameWidth="362" frameHeight="711"/>
+	<SubTexture name="left_quag0000" x="0" y="714" width="862" height="697"/>
+	<SubTexture name="left_quag0001" x="862" y="714" width="643" height="697" frameX="-218" frameY="0" frameWidth="862" frameHeight="697"/>
+	<SubTexture name="left_quag0002" x="1505" y="714" width="635" height="697" frameX="-226" frameY="0" frameWidth="862" frameHeight="697"/>
+	<SubTexture name="left_quag0003" x="1505" y="714" width="635" height="697" frameX="-226" frameY="0" frameWidth="862" frameHeight="697"/>
+	<SubTexture name="left_quag0004" x="2140" y="714" width="631" height="697" frameX="-230" frameY="0" frameWidth="862" frameHeight="697"/>
+	<SubTexture name="left_quag0005" x="2140" y="714" width="631" height="697" frameX="-230" frameY="0" frameWidth="862" frameHeight="697"/>
+	<SubTexture name="left_quag0006" x="2140" y="714" width="631" height="697" frameX="-230" frameY="0" frameWidth="862" frameHeight="697"/>
+	<SubTexture name="left_quag0007" x="2140" y="714" width="631" height="697" frameX="-230" frameY="0" frameWidth="862" frameHeight="697"/>
+	<SubTexture name="left_quag0008" x="2140" y="714" width="631" height="697" frameX="-230" frameY="0" frameWidth="862" frameHeight="697"/>
+	<SubTexture name="left_quag0009" x="2140" y="714" width="631" height="697" frameX="-230" frameY="0" frameWidth="862" frameHeight="697"/>
+	<SubTexture name="right_quag0000" x="2771" y="714" width="617" height="734" frameX="-1" frameY="0" frameWidth="618" frameHeight="734"/>
+	<SubTexture name="right_quag0001" x="3388" y="714" width="530" height="734" frameX="0" frameY="0" frameWidth="618" frameHeight="734"/>
+	<SubTexture name="right_quag0002" x="0" y="1448" width="524" height="734" frameX="0" frameY="0" frameWidth="618" frameHeight="734"/>
+	<SubTexture name="right_quag0003" x="0" y="1448" width="524" height="734" frameX="0" frameY="0" frameWidth="618" frameHeight="734"/>
+	<SubTexture name="right_quag0004" x="524" y="1448" width="522" height="734" frameX="0" frameY="0" frameWidth="618" frameHeight="734"/>
+	<SubTexture name="right_quag0005" x="524" y="1448" width="522" height="734" frameX="0" frameY="0" frameWidth="618" frameHeight="734"/>
+	<SubTexture name="right_quag0006" x="524" y="1448" width="522" height="734" frameX="0" frameY="0" frameWidth="618" frameHeight="734"/>
+	<SubTexture name="right_quag0007" x="524" y="1448" width="522" height="734" frameX="0" frameY="0" frameWidth="618" frameHeight="734"/>
+	<SubTexture name="right_quag0008" x="524" y="1448" width="522" height="734" frameX="0" frameY="0" frameWidth="618" frameHeight="734"/>
+	<SubTexture name="right_quag0009" x="524" y="1448" width="522" height="734" frameX="0" frameY="0" frameWidth="618" frameHeight="734"/>
+	<SubTexture name="right_quag0010" x="524" y="1448" width="522" height="734" frameX="0" frameY="0" frameWidth="618" frameHeight="734"/>
+	<SubTexture name="right_quag0011" x="524" y="1448" width="522" height="734" frameX="0" frameY="0" frameWidth="618" frameHeight="734"/>
+	<SubTexture name="right_quag0012" x="524" y="1448" width="522" height="734" frameX="0" frameY="0" frameWidth="618" frameHeight="734"/>
+	<SubTexture name="up_quag0000" x="1046" y="1448" width="182" height="820" frameX="-29" frameY="0" frameWidth="239" frameHeight="820"/>
+	<SubTexture name="up_quag0001" x="1228" y="1448" width="235" height="778" frameX="-2" frameY="-42" frameWidth="239" frameHeight="820"/>
+	<SubTexture name="up_quag0002" x="1463" y="1448" width="239" height="776" frameX="0" frameY="-44" frameWidth="239" frameHeight="820"/>
+	<SubTexture name="up_quag0003" x="1463" y="1448" width="239" height="776" frameX="0" frameY="-44" frameWidth="239" frameHeight="820"/>
+	<SubTexture name="up_quag0004" x="1463" y="1448" width="239" height="776" frameX="0" frameY="-44" frameWidth="239" frameHeight="820"/>
+	<SubTexture name="up_quag0005" x="1463" y="1448" width="239" height="776" frameX="0" frameY="-44" frameWidth="239" frameHeight="820"/>
+	<SubTexture name="up_quag0006" x="1463" y="1448" width="239" height="776" frameX="0" frameY="-44" frameWidth="239" frameHeight="820"/>
+	<SubTexture name="up_quag0007" x="1463" y="1448" width="239" height="776" frameX="0" frameY="-44" frameWidth="239" frameHeight="820"/>
+	<SubTexture name="up_quag0008" x="1463" y="1448" width="239" height="776" frameX="0" frameY="-44" frameWidth="239" frameHeight="820"/>
+	<SubTexture name="up_quag0009" x="1463" y="1448" width="239" height="776" frameX="0" frameY="-44" frameWidth="239" frameHeight="820"/>
+	<SubTexture name="up_quag0010" x="1463" y="1448" width="239" height="776" frameX="0" frameY="-44" frameWidth="239" frameHeight="820"/>
+	<SubTexture name="up_quag0011" x="1463" y="1448" width="239" height="776" frameX="0" frameY="-44" frameWidth="239" frameHeight="820"/>
+	<SubTexture name="up_quag0012" x="1463" y="1448" width="239" height="776" frameX="0" frameY="-44" frameWidth="239" frameHeight="820"/>
+</TextureAtlas>

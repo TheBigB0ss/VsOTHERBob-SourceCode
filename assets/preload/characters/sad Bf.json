@@ -1,0 +1,142 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-598,
+				-340
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "bf_left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-614,
+				-363
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "bf_down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-695,
+				-369
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "bf_up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-570,
+				-347
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "bf_right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-619,
+				-347
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "bf_idle"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-100
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "idle",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-9,
+				10
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "left",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				27
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "right",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-6,
+				50
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "up",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sad_bf",
+	"position": [
+		-540,
+		0
+	],
+	"healthicon": "sad",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		16,
+		255
+	],
+	"camera_position": [
+		-610,
+		420
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

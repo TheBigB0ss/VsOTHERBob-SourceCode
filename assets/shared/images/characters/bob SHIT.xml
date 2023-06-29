@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bob SHIT.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down.png" x="0" y="0" width="1000" height="1200"/>
+	<SubTexture name="idle.png" x="1000" y="0" width="1000" height="1200"/>
+	<SubTexture name="left.png" x="2000" y="0" width="1000" height="1200"/>
+	<SubTexture name="right.png" x="3000" y="0" width="1000" height="1200"/>
+	<SubTexture name="up.png" x="0" y="1200" width="1000" height="1200"/>
+</TextureAtlas>

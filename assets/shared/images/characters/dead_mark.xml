@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dead_mark.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dead10000" x="0" y="0" width="308" height="252" frameX="-100" frameY="-40" frameWidth="508" frameHeight="331"/>
+	<SubTexture name="dead10001" x="0" y="0" width="308" height="252" frameX="-100" frameY="-40" frameWidth="508" frameHeight="331"/>
+	<SubTexture name="dead10002" x="308" y="0" width="331" height="262" frameX="-89" frameY="-35" frameWidth="508" frameHeight="331"/>
+	<SubTexture name="dead10003" x="308" y="0" width="331" height="262" frameX="-89" frameY="-35" frameWidth="508" frameHeight="331"/>
+	<SubTexture name="dead10004" x="639" y="0" width="485" height="323" frameX="-12" frameY="-4" frameWidth="508" frameHeight="331"/>
+	<SubTexture name="dead10005" x="639" y="0" width="485" height="323" frameX="-12" frameY="-4" frameWidth="508" frameHeight="331"/>
+	<SubTexture name="dead10006" x="1124" y="0" width="508" height="331"/>
+	<SubTexture name="dead10007" x="1124" y="0" width="508" height="331"/>
+	<SubTexture name="dead10008" x="1124" y="0" width="508" height="331"/>
+	<SubTexture name="dead10009" x="1124" y="0" width="508" height="331"/>
+	<SubTexture name="dead20000" x="1124" y="0" width="508" height="331" frameX="-30" frameY="0" frameWidth="508" frameHeight="331"/>
+	<SubTexture name="dead20001" x="1124" y="0" width="508" height="331" frameX="-30" frameY="0" frameWidth="508" frameHeight="331"/>
+	<SubTexture name="dead20002" x="0" y="331" width="570" height="312" frameX="0" frameY="-19" frameWidth="570" frameHeight="332"/>
+	<SubTexture name="dead20003" x="0" y="331" width="570" height="312" frameX="0" frameY="-19" frameWidth="570" frameHeight="332"/>
+	<SubTexture name="dead20004" x="570" y="331" width="562" height="221" frameX="-5" frameY="-111" frameWidth="570" frameHeight="332"/>
+	<SubTexture name="dead20005" x="570" y="331" width="562" height="221" frameX="-5" frameY="-111" frameWidth="570" frameHeight="332"/>
+	<SubTexture name="dead20006" x="1132" y="331" width="518" height="262" frameX="-27" frameY="-70" frameWidth="570" frameHeight="332"/>
+	<SubTexture name="dead20007" x="1132" y="331" width="518" height="262" frameX="-27" frameY="-70" frameWidth="570" frameHeight="332"/>
+	<SubTexture name="dead20008" x="0" y="643" width="480" height="293" frameX="-46" frameY="-38" frameWidth="570" frameHeight="332"/>
+	<SubTexture name="dead20009" x="0" y="643" width="480" height="293" frameX="-46" frameY="-38" frameWidth="570" frameHeight="332"/>
+	<SubTexture name="dead20010" x="480" y="643" width="494" height="285" frameX="-39" frameY="-47" frameWidth="570" frameHeight="332"/>
+	<SubTexture name="dead20011" x="480" y="643" width="494" height="285" frameX="-39" frameY="-47" frameWidth="570" frameHeight="332"/>
+	<SubTexture name="dead20012" x="480" y="643" width="494" height="285" frameX="-39" frameY="-47" frameWidth="570" frameHeight="332"/>
+	<SubTexture name="dead20013" x="480" y="643" width="494" height="285" frameX="-39" frameY="-47" frameWidth="570" frameHeight="332"/>
+	<SubTexture name="dead20014" x="480" y="643" width="494" height="285" frameX="-39" frameY="-47" frameWidth="570" frameHeight="332"/>
+	<SubTexture name="dead30000" x="570" y="331" width="562" height="221" frameX="0" frameY="-73" frameWidth="570" frameHeight="332"/>
+	<SubTexture name="dead30001" x="570" y="331" width="562" height="221" frameX="0" frameY="-73" frameWidth="570" frameHeight="332"/>
+	<SubTexture name="dead30002" x="1132" y="331" width="518" height="262" frameX="-22" frameY="-32" frameWidth="570" frameHeight="332"/>
+	<SubTexture name="dead30003" x="1132" y="331" width="518" height="262" frameX="-22" frameY="-32" frameWidth="570" frameHeight="332"/>
+	<SubTexture name="dead30004" x="0" y="643" width="480" height="293" frameX="-41" frameY="0" frameWidth="570" frameHeight="332"/>
+	<SubTexture name="dead30005" x="0" y="643" width="480" height="293" frameX="-41" frameY="0" frameWidth="570" frameHeight="332"/>
+	<SubTexture name="dead30006" x="480" y="643" width="494" height="285" frameX="-34" frameY="-9" frameWidth="570" frameHeight="332"/>
+	<SubTexture name="dead30007" x="480" y="643" width="494" height="285" frameX="-34" frameY="-9" frameWidth="570" frameHeight="332"/>
+	<SubTexture name="dead30008" x="480" y="643" width="494" height="285" frameX="-34" frameY="-9" frameWidth="570" frameHeight="332"/>
+	<SubTexture name="dead30009" x="480" y="643" width="494" height="285" frameX="-34" frameY="-9" frameWidth="570" frameHeight="332"/>
+	<SubTexture name="dead30010" x="480" y="643" width="494" height="285" frameX="-34" frameY="-9" frameWidth="570" frameHeight="332"/>
+</TextureAtlas>

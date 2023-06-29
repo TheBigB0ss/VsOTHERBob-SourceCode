@@ -1,0 +1,142 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				470,
+				-281
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "fumo_left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				310,
+				-298
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "fumo_down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				439,
+				-199
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "fumo_up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				383,
+				-277
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "fumo_right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				292,
+				-285
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "fumo_idle"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-100
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "idle",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-9,
+				10
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "left",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				27
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "right",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-6,
+				50
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "up",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/lord_maconha_sprite_shit",
+	"position": [
+		320,
+		0
+	],
+	"healthicon": "maconha",
+	"flip_x": false,
+	"healthbar_colors": [
+		158,
+		71,
+		62
+	],
+	"camera_position": [
+		-280,
+		290
+	],
+	"sing_duration": 6.1,
+	"scale": 0.75
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				421,
+				-108
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "feddy left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				426,
+				-181
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "feddy down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				417,
+				-86
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "feddy up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				417,
+				-121
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "feddy right"
+		},
+		{
+			"offsets": [
+				426,
+				-109
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "feddy idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/freddy_crack",
+	"position": [
+		470,
+		-130
+	],
+	"healthicon": "",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		370,
+		180
+	],
+	"sing_duration": 1.50000000000001,
+	"scale": 0.7
+}

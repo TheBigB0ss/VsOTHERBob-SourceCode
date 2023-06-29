@@ -1,0 +1,92 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.02,
+			"portrait": "bob",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I WANT A REMATCH!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\\n!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "fuck off"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I just won. Nobody told to lose so easy"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "bitch"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bob",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Kill Youself "
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "go fuck yourself BF"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i sit on this radio every single day,\\nand our only act of love is during sex"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "so stop being such a mother fucker and sing one more time"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok when i get home i'm going to give you the biggest spanking of your life "
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bob",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i thing i should call the police "
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "STFU"
+		}
+	]
+}

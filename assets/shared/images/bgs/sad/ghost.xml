@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ghost.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ghost0000" x="0" y="0" width="181" height="381" frameX="-6" frameY="-12" frameWidth="195" frameHeight="401"/>
+	<SubTexture name="ghost0001" x="0" y="0" width="181" height="381" frameX="-6" frameY="-12" frameWidth="195" frameHeight="401"/>
+	<SubTexture name="ghost0002" x="181" y="0" width="181" height="393" frameX="-6" frameY="-6" frameWidth="195" frameHeight="401"/>
+	<SubTexture name="ghost0003" x="181" y="0" width="181" height="393" frameX="-6" frameY="-6" frameWidth="195" frameHeight="401"/>
+	<SubTexture name="ghost0004" x="362" y="0" width="188" height="399" frameX="-3" frameY="-1" frameWidth="195" frameHeight="401"/>
+	<SubTexture name="ghost0005" x="362" y="0" width="188" height="399" frameX="-3" frameY="-1" frameWidth="195" frameHeight="401"/>
+	<SubTexture name="ghost0006" x="550" y="0" width="195" height="401"/>
+	<SubTexture name="ghost0007" x="550" y="0" width="195" height="401"/>
+</TextureAtlas>

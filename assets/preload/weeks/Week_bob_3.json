@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"placeholder",
+			"gary",
+			[
+				255,
+				255,
+				253
+			]
+		],
+		[
+			"give up",
+			"bob",
+			[
+				172,
+				202,
+				255
+			]
+		],
+		[
+			"crusher",
+			"gary",
+			[
+				255,
+				255,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "wow the final week lol",
+	"weekName": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

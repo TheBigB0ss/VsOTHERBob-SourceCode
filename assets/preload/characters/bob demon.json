@@ -1,0 +1,142 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				237,
+				-159
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "corrupted left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				386,
+				-149
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "corrupted down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				114,
+				12
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "corrupted up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				-123
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "corrupted right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				116,
+				-120
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "corrupted idle"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-100
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "idle",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-9,
+				10
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "left",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				27
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "right",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-6,
+				50
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "up",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/demon_bob_phase_2",
+	"position": [
+		50,
+		0
+	],
+	"healthicon": "monsterbob",
+	"flip_x": false,
+	"healthbar_colors": [
+		51,
+		51,
+		51
+	],
+	"camera_position": [
+		-90,
+		340
+	],
+	"sing_duration": 5.9,
+	"scale": 0.7
+}

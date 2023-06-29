@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="the good old days.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="comic 1.png" x="0" y="0" width="2445" height="1302"/>
+	<SubTexture name="comic 2.png" x="2445" y="0" width="2445" height="1302"/>
+	<SubTexture name="comic 3.png" x="4890" y="0" width="2445" height="1302"/>
+	<SubTexture name="comic 4.png" x="0" y="1302" width="2445" height="1302"/>
+	<SubTexture name="comic 5.png" x="2445" y="1302" width="2445" height="1302"/>
+</TextureAtlas>

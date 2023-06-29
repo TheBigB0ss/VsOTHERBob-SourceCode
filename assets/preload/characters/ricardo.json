@@ -1,0 +1,142 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				96,
+				-167
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "p_left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				106,
+				-257
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "p_down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				66,
+				-177
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "p_up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				76,
+				-185
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "p_right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				86,
+				-214
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "p_idle"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-100
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "idle",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-9,
+				10
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "left",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				27
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "right",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-6,
+				50
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "up",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			]
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/ricardo",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "ricardo",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		-50,
+		280
+	],
+	"sing_duration": 6.1,
+	"scale": 0.399999999999999
+}

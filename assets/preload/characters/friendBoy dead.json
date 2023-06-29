@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-81,
+				178
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "morte",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-156,
+				-68
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "morteloop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-92,
+				182
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "morte",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/paintmorte",
+	"position": [
+		430,
+		450
+	],
+	"healthicon": "bf-pixel",
+	"flip_x": false,
+	"healthbar_colors": [
+		123,
+		214,
+		246
+	],
+	"camera_position": [
+		-140,
+		10
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

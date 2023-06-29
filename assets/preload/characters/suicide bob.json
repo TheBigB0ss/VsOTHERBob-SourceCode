@@ -1,0 +1,153 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-24,
+				-169
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-14,
+				-180
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-12,
+				-134
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-4,
+				-189
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-4,
+				-189
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				130,
+				-100
+			],
+			"loop": false,
+			"anim": "Suicide",
+			"fps": 24,
+			"name": "Suicide",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-4,
+				-189
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				-4,
+				-169
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				0,
+				27
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-6,
+				50
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			],
+			"name": "up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/suicide_bob",
+	"position": [
+		50,
+		0
+	],
+	"healthicon": "suicide",
+	"flip_x": false,
+	"healthbar_colors": [
+		101,
+		101,
+		101
+	],
+	"camera_position": [
+		50,
+		170
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

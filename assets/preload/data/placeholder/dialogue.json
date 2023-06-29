@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.015,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*VERY COOL TELEPORTATION*"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "wtf?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "why did we come here"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gary",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "because the creator didn't get a third \\ncutscene"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "LMAO"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "let's sing  "
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gary",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok"
+		}
+	]
+}

@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				165,
+				13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "2 moerte"
+		},
+		{
+			"offsets": [
+				165,
+				13
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "moerte loop"
+		},
+		{
+			"offsets": [
+				165,
+				13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "1 moerte"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/bolos_dead",
+	"position": [
+		30,
+		250
+	],
+	"healthicon": "bf-pixel",
+	"flip_x": true,
+	"healthbar_colors": [
+		123,
+		214,
+		246
+	],
+	"camera_position": [
+		-320,
+		10
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

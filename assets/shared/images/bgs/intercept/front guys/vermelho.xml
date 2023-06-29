@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="vermelho.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="vermleho0000" x="0" y="0" width="464" height="388" frameX="-3" frameY="-36" frameWidth="467" frameHeight="427"/>
+	<SubTexture name="vermleho0001" x="0" y="0" width="464" height="388" frameX="-3" frameY="-36" frameWidth="467" frameHeight="427"/>
+	<SubTexture name="vermleho0002" x="464" y="0" width="414" height="425" frameX="-3" frameY="-1" frameWidth="467" frameHeight="427"/>
+	<SubTexture name="vermleho0003" x="464" y="0" width="414" height="425" frameX="-3" frameY="-1" frameWidth="467" frameHeight="427"/>
+	<SubTexture name="vermleho0004" x="0" y="425" width="412" height="427" frameX="0" frameY="0" frameWidth="467" frameHeight="427"/>
+	<SubTexture name="vermleho0005" x="0" y="425" width="412" height="427" frameX="0" frameY="0" frameWidth="467" frameHeight="427"/>
+	<SubTexture name="vermleho0006" x="412" y="425" width="413" height="427" frameX="-1" frameY="0" frameWidth="467" frameHeight="427"/>
+	<SubTexture name="vermleho0007" x="412" y="425" width="413" height="427" frameX="-1" frameY="0" frameWidth="467" frameHeight="427"/>
+	<SubTexture name="vermleho0008" x="412" y="425" width="413" height="427" frameX="-1" frameY="0" frameWidth="467" frameHeight="427"/>
+	<SubTexture name="vermleho0009" x="412" y="425" width="413" height="427" frameX="-1" frameY="0" frameWidth="467" frameHeight="427"/>
+</TextureAtlas>

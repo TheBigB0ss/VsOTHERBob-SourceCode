@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="icon-ourplelol.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="icon idle0000" x="0" y="0" width="163" height="189" frameX="0" frameY="0" frameWidth="163" frameHeight="190"/>
+	<SubTexture name="icon idle0001" x="0" y="0" width="163" height="189" frameX="0" frameY="0" frameWidth="163" frameHeight="190"/>
+	<SubTexture name="icon idle0002" x="163" y="0" width="163" height="190"/>
+	<SubTexture name="icon idle0003" x="163" y="0" width="163" height="190"/>
+	<SubTexture name="icon idle0004" x="326" y="0" width="163" height="190"/>
+	<SubTexture name="icon idle0005" x="326" y="0" width="163" height="190"/>
+	<SubTexture name="icon lose0000" x="489" y="0" width="163" height="189" frameX="0" frameY="0" frameWidth="163" frameHeight="190"/>
+	<SubTexture name="icon lose0001" x="489" y="0" width="163" height="189" frameX="0" frameY="0" frameWidth="163" frameHeight="190"/>
+	<SubTexture name="icon lose0002" x="652" y="0" width="163" height="190"/>
+	<SubTexture name="icon lose0003" x="652" y="0" width="163" height="190"/>
+	<SubTexture name="icon lose0004" x="815" y="0" width="163" height="190"/>
+	<SubTexture name="icon lose0005" x="815" y="0" width="163" height="190"/>
+	<SubTexture name="icon win0000" x="0" y="190" width="159" height="202" frameX="-5" frameY="0" frameWidth="169" frameHeight="202"/>
+	<SubTexture name="icon win0001" x="0" y="190" width="159" height="202" frameX="-5" frameY="0" frameWidth="169" frameHeight="202"/>
+	<SubTexture name="icon win0002" x="159" y="190" width="169" height="194" frameX="0" frameY="-8" frameWidth="169" frameHeight="202"/>
+	<SubTexture name="icon win0003" x="159" y="190" width="169" height="194" frameX="0" frameY="-8" frameWidth="169" frameHeight="202"/>
+</TextureAtlas>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="scariest jumpscar from 2017.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="vish0000" x="39" y="39" width="600" height="336"/>
+	<SubTexture name="vish0001" x="39" y="39" width="600" height="336"/>
+	<SubTexture name="vish0002" x="669" y="39" width="600" height="336"/>
+	<SubTexture name="vish0003" x="1299" y="39" width="600" height="336"/>
+	<SubTexture name="vish0004" x="1299" y="39" width="600" height="336"/>
+	<SubTexture name="vish0005" x="1929" y="39" width="600" height="336"/>
+	<SubTexture name="vish0006" x="1929" y="39" width="600" height="336"/>
+	<SubTexture name="vish0007" x="2559" y="39" width="600" height="336"/>
+	<SubTexture name="vish0008" x="3189" y="39" width="600" height="336"/>
+	<SubTexture name="vish0009" x="3189" y="39" width="600" height="336"/>
+	<SubTexture name="vish0010" x="39" y="405" width="600" height="336"/>
+	<SubTexture name="vish0011" x="39" y="405" width="600" height="336"/>
+	<SubTexture name="vish0012" x="669" y="405" width="600" height="336"/>
+	<SubTexture name="vish0013" x="1299" y="405" width="600" height="336"/>
+	<SubTexture name="vish0014" x="1299" y="405" width="600" height="336"/>
+	<SubTexture name="vish0015" x="1929" y="405" width="600" height="336"/>
+	<SubTexture name="vish0016" x="1929" y="405" width="600" height="336"/>
+	<SubTexture name="vish0017" x="2559" y="405" width="600" height="336"/>
+	<SubTexture name="vish0018" x="3189" y="405" width="600" height="336"/>
+	<SubTexture name="vish0019" x="3189" y="405" width="600" height="336"/>
+	<SubTexture name="vish0020" x="39" y="771" width="600" height="336"/>
+	<SubTexture name="vish0021" x="669" y="771" width="600" height="336"/>
+	<SubTexture name="vish0022" x="669" y="771" width="600" height="336"/>
+	<SubTexture name="vish0023" x="1299" y="771" width="600" height="336"/>
+	<SubTexture name="vish0024" x="1299" y="771" width="600" height="336"/>
+	<SubTexture name="vish0025" x="1929" y="771" width="600" height="336"/>
+	<SubTexture name="vish0026" x="2559" y="771" width="600" height="336"/>
+	<SubTexture name="vish0027" x="2559" y="771" width="600" height="336"/>
+	<SubTexture name="vish0028" x="3189" y="771" width="600" height="336"/>
+	<SubTexture name="vish0029" x="3189" y="771" width="600" height="336"/>
+	<SubTexture name="vish0030" x="39" y="1137" width="600" height="336"/>
+</TextureAtlas>

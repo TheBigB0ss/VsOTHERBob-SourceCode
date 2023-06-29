@@ -1,0 +1,142 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-6,
+				-145
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "mad_left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-54,
+				-137
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "mad_down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				85,
+				-115
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "mad_up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-57,
+				-145
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "mad_right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-48,
+				-136
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "mad_idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-100
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				-9,
+				10
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				0,
+				27
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-6,
+				50
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			],
+			"name": "up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bob_copy_mad",
+	"position": [
+		0,
+		-50
+	],
+	"healthicon": "madbob",
+	"flip_x": false,
+	"healthbar_colors": [
+		172,
+		202,
+		255
+	],
+	"camera_position": [
+		80,
+		260
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

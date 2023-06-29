@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bf_derd.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DEATHconfirm0000" x="30" y="30" width="440" height="517"/>
+	<SubTexture name="DEATHconfirm0001" x="30" y="30" width="440" height="517"/>
+	<SubTexture name="DEATHconfirm0002" x="500" y="30" width="440" height="517"/>
+	<SubTexture name="DEATHconfirm0003" x="500" y="30" width="440" height="517"/>
+	<SubTexture name="DEATHconfirm0004" x="970" y="30" width="440" height="517"/>
+	<SubTexture name="DEATHconfirm0005" x="970" y="30" width="440" height="517"/>
+	<SubTexture name="DEATHconfirm0006" x="1440" y="30" width="440" height="517"/>
+	<SubTexture name="DEATHconfirm0007" x="1910" y="30" width="440" height="517"/>
+	<SubTexture name="DEATHconfirm0008" x="1910" y="30" width="440" height="517"/>
+	<SubTexture name="DEATHconfirm0009" x="2380" y="30" width="440" height="517"/>
+	<SubTexture name="DEATHconfirm0010" x="2380" y="30" width="440" height="517"/>
+	<SubTexture name="DEATHconfirm0011" x="2850" y="30" width="440" height="517"/>
+	<SubTexture name="DEATHconfirm0012" x="2850" y="30" width="440" height="517"/>
+	<SubTexture name="DEATHconfirm0013" x="3320" y="30" width="440" height="517"/>
+	<SubTexture name="DEATHconfirm0014" x="3790" y="30" width="440" height="517"/>
+	<SubTexture name="DEATHconfirm0015" x="3790" y="30" width="440" height="517"/>
+	<SubTexture name="DEATHloop0000" x="4260" y="30" width="440" height="517"/>
+	<SubTexture name="DEATHloop0001" x="4260" y="30" width="440" height="517"/>
+	<SubTexture name="DEATHloop0002" x="4730" y="30" width="440" height="517"/>
+	<SubTexture name="DEATHloop0003" x="4730" y="30" width="440" height="517"/>
+	<SubTexture name="DEATHloop0004" x="5200" y="30" width="440" height="517"/>
+	<SubTexture name="DEATHloop0005" x="5200" y="30" width="440" height="517"/>
+	<SubTexture name="DEATHloop0006" x="5670" y="30" width="440" height="517"/>
+	<SubTexture name="DEATHloop0007" x="5670" y="30" width="440" height="517"/>
+	<SubTexture name="DEATHloop0008" x="6140" y="30" width="440" height="517"/>
+	<SubTexture name="DEATHloop0009" x="6140" y="30" width="440" height="517"/>
+	<SubTexture name="DEATHstart0000" x="6610" y="30" width="815" height="778"/>
+	<SubTexture name="DEATHstart0001" x="30" y="838" width="815" height="778"/>
+	<SubTexture name="DEATHstart0002" x="875" y="838" width="815" height="778"/>
+	<SubTexture name="DEATHstart0003" x="1720" y="838" width="815" height="778"/>
+	<SubTexture name="DEATHstart0004" x="2565" y="838" width="815" height="778"/>
+	<SubTexture name="DEATHstart0005" x="3410" y="838" width="815" height="778"/>
+	<SubTexture name="DEATHstart0006" x="3410" y="838" width="815" height="778"/>
+	<SubTexture name="DEATHstart0007" x="4255" y="838" width="815" height="778"/>
+	<SubTexture name="DEATHstart0008" x="4255" y="838" width="815" height="778"/>
+	<SubTexture name="DEATHstart0009" x="4255" y="838" width="815" height="778"/>
+	<SubTexture name="DEATHstart0010" x="5100" y="838" width="815" height="778"/>
+	<SubTexture name="DEATHstart0011" x="5100" y="838" width="815" height="778"/>
+	<SubTexture name="DEATHstart0012" x="5945" y="838" width="815" height="778"/>
+	<SubTexture name="DEATHstart0013" x="5945" y="838" width="815" height="778"/>
+	<SubTexture name="DEATHstart0014" x="6790" y="838" width="815" height="778"/>
+	<SubTexture name="DEATHstart0015" x="6790" y="838" width="815" height="778"/>
+	<SubTexture name="DEATHstart0016" x="30" y="1646" width="815" height="778"/>
+	<SubTexture name="DEATHstart0017" x="875" y="1646" width="815" height="778"/>
+	<SubTexture name="DEATHstart0018" x="875" y="1646" width="815" height="778"/>
+	<SubTexture name="DEATHstart0019" x="1720" y="1646" width="815" height="778"/>
+	<SubTexture name="DEATHstart0020" x="1720" y="1646" width="815" height="778"/>
+	<SubTexture name="DEATHstart0021" x="2565" y="1646" width="815" height="778"/>
+	<SubTexture name="DEATHstart0022" x="2565" y="1646" width="815" height="778"/>
+	<SubTexture name="DEATHstart0023" x="3410" y="1646" width="815" height="778"/>
+	<SubTexture name="DEATHstart0024" x="4255" y="1646" width="815" height="778"/>
+	<SubTexture name="DEATHstart0025" x="5100" y="1646" width="815" height="778"/>
+	<SubTexture name="DEATHstart0026" x="5100" y="1646" width="815" height="778"/>
+	<SubTexture name="DEATHstart0027" x="5945" y="1646" width="815" height="778"/>
+	<SubTexture name="DEATHstart0028" x="5945" y="1646" width="815" height="778"/>
+	<SubTexture name="DEATHstart0029" x="6790" y="1646" width="815" height="778"/>
+	<SubTexture name="DEATHstart0030" x="6790" y="1646" width="815" height="778"/>
+</TextureAtlas>

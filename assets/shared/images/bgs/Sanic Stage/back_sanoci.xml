@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="back sanoci.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="back0000" x="0" y="0" width="1130" height="366" frameX="0" frameY="-41" frameWidth="1130" frameHeight="420"/>
+	<SubTexture name="back0001" x="0" y="0" width="1130" height="366" frameX="0" frameY="-41" frameWidth="1130" frameHeight="420"/>
+	<SubTexture name="back0002" x="0" y="366" width="1097" height="410" frameX="-16" frameY="-8" frameWidth="1130" frameHeight="420"/>
+	<SubTexture name="back0003" x="0" y="366" width="1097" height="410" frameX="-16" frameY="-8" frameWidth="1130" frameHeight="420"/>
+	<SubTexture name="back0004" x="0" y="776" width="1073" height="420" frameX="-28" frameY="0" frameWidth="1130" frameHeight="420"/>
+	<SubTexture name="back0005" x="0" y="776" width="1073" height="420" frameX="-28" frameY="0" frameWidth="1130" frameHeight="420"/>
+	<SubTexture name="back0006" x="0" y="776" width="1073" height="420" frameX="-28" frameY="0" frameWidth="1130" frameHeight="420"/>
+	<SubTexture name="back0007" x="0" y="776" width="1073" height="420" frameX="-28" frameY="0" frameWidth="1130" frameHeight="420"/>
+	<SubTexture name="back0008" x="0" y="776" width="1073" height="420" frameX="-28" frameY="0" frameWidth="1130" frameHeight="420"/>
+	<SubTexture name="back0009" x="0" y="776" width="1073" height="420" frameX="-28" frameY="0" frameWidth="1130" frameHeight="420"/>
+</TextureAtlas>

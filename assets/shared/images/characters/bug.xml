@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bug.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dddddddddd0000" x="0" y="0" width="1290" height="539" frameX="-117" frameY="-420" frameWidth="1577" frameHeight="1050"/>
+	<SubTexture name="dddddddddd0001" x="1290" y="0" width="1534" height="822" frameX="-43" frameY="-228" frameWidth="1577" frameHeight="1050"/>
+	<SubTexture name="dddddddddd0002" x="2824" y="0" width="1228" height="958" frameX="0" frameY="0" frameWidth="1577" frameHeight="1050"/>
+	<SubTexture name="idlo0000" x="4052" y="0" width="461" height="702" frameX="-420" frameY="-9" frameWidth="1321" frameHeight="713"/>
+	<SubTexture name="idlo0001" x="4513" y="0" width="454" height="696" frameX="-420" frameY="-15" frameWidth="1321" frameHeight="713"/>
+	<SubTexture name="idlo0002" x="4967" y="0" width="881" height="678" frameX="-440" frameY="-33" frameWidth="1321" frameHeight="713"/>
+	<SubTexture name="idlo0003" x="5848" y="0" width="420" height="709" frameX="-440" frameY="-2" frameWidth="1321" frameHeight="713"/>
+	<SubTexture name="idlo0004" x="6268" y="0" width="415" height="711" frameX="-443" frameY="0" frameWidth="1321" frameHeight="713"/>
+	<SubTexture name="idlo0005" x="6683" y="0" width="415" height="711" frameX="-443" frameY="0" frameWidth="1321" frameHeight="713"/>
+	<SubTexture name="idlo0006" x="0" y="958" width="1252" height="713" frameX="0" frameY="0" frameWidth="1321" frameHeight="713"/>
+	<SubTexture name="idlo0007" x="1252" y="958" width="537" height="711" frameX="-482" frameY="0" frameWidth="1321" frameHeight="713"/>
+	<SubTexture name="idlo0008" x="1789" y="958" width="875" height="687" frameX="-443" frameY="-24" frameWidth="1321" frameHeight="713"/>
+	<SubTexture name="idlo0009" x="6683" y="0" width="415" height="711" frameX="-443" frameY="0" frameWidth="1321" frameHeight="713"/>
+	<SubTexture name="lelefft0000" x="2664" y="958" width="1300" height="783" frameX="0" frameY="0" frameWidth="1300" frameHeight="787"/>
+	<SubTexture name="lelefft0001" x="3964" y="958" width="731" height="783" frameX="-350" frameY="0" frameWidth="1300" frameHeight="787"/>
+	<SubTexture name="lelefft0002" x="4695" y="958" width="686" height="771" frameX="-342" frameY="-16" frameWidth="1300" frameHeight="787"/>
+	<SubTexture name="righttttt0000" x="5381" y="958" width="662" height="942" frameX="-104" frameY="0" frameWidth="766" frameHeight="1186"/>
+	<SubTexture name="righttttt0001" x="6043" y="958" width="725" height="870" frameX="0" frameY="-5" frameWidth="766" frameHeight="1186"/>
+	<SubTexture name="righttttt0002" x="6768" y="958" width="615" height="1154" frameX="-112" frameY="-32" frameWidth="766" frameHeight="1186"/>
+	<SubTexture name="upupupuppuuu0000" x="7383" y="958" width="640" height="981" frameX="-73" frameY="0" frameWidth="1028" frameHeight="982"/>
+	<SubTexture name="upupupuppuuu0001" x="0" y="2112" width="716" height="892" frameX="-9" frameY="-89" frameWidth="1028" frameHeight="982"/>
+	<SubTexture name="upupupuppuuu0002" x="716" y="2112" width="1028" height="800" frameX="0" frameY="-182" frameWidth="1028" frameHeight="982"/>
+</TextureAtlas>

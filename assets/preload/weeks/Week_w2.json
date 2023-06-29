@@ -1,0 +1,86 @@
+{
+	"storyName": "",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"intercept",
+			"mogus",
+			[
+				255,
+				0,
+				6
+			]
+		],
+		[
+			"alt",
+			"real",
+			[
+				215,
+				239,
+				255
+			]
+		],
+		[
+			"beast",
+			"mrBeast",
+			[
+				255,
+				235,
+				55
+			]
+		],
+		[
+			"fatass",
+			"Cartman",
+			[
+				255,
+				60,
+				86
+			]
+		],
+		[
+			"Bite",
+			"Butcher",
+			[
+				60,
+				56,
+				55
+			]
+		],
+		[
+			"education",
+			"bal",
+			[
+				60,
+				255,
+				60
+			]
+		],
+		[
+			"slow",
+			"SANIC",
+			[
+				0,
+				96,
+				255
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"hiddenUntilUnlocked": false,
+	"weekName": ""
+}

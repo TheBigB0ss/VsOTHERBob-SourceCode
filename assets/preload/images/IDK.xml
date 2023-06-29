@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="IDK.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idk.png" x="0" y="0" width="443" height="82"/>
+	<SubTexture name="idk1.png" x="443" y="0" width="443" height="82"/>
+	<SubTexture name="idk10.png" x="886" y="0" width="443" height="82"/>
+	<SubTexture name="idk11.png" x="1329" y="0" width="443" height="82"/>
+	<SubTexture name="idk12.png" x="0" y="82" width="443" height="82"/>
+	<SubTexture name="idk13.png" x="443" y="82" width="443" height="82"/>
+	<SubTexture name="idk14.png" x="886" y="82" width="443" height="82"/>
+	<SubTexture name="idk15.png" x="1329" y="82" width="443" height="82"/>
+	<SubTexture name="idk16.png" x="0" y="164" width="443" height="82"/>
+	<SubTexture name="idk17.png" x="443" y="164" width="443" height="82"/>
+	<SubTexture name="idk18.png" x="886" y="164" width="443" height="82"/>
+	<SubTexture name="idk19.png" x="1329" y="164" width="443" height="82"/>
+	<SubTexture name="idk2.png" x="0" y="246" width="443" height="82"/>
+	<SubTexture name="idk20.png" x="443" y="246" width="443" height="82"/>
+	<SubTexture name="idk21.png" x="886" y="246" width="443" height="82"/>
+	<SubTexture name="idk22.png" x="1329" y="246" width="443" height="82"/>
+	<SubTexture name="idk23.png" x="0" y="328" width="443" height="82"/>
+	<SubTexture name="idk24.png" x="443" y="328" width="443" height="82"/>
+	<SubTexture name="idk25.png" x="886" y="328" width="443" height="82"/>
+	<SubTexture name="idk26.png" x="1329" y="328" width="443" height="82"/>
+	<SubTexture name="idk27.png" x="0" y="410" width="443" height="82"/>
+	<SubTexture name="idk28.png" x="443" y="410" width="443" height="82"/>
+	<SubTexture name="idk29.png" x="886" y="410" width="443" height="82"/>
+	<SubTexture name="idk3.png" x="1329" y="410" width="443" height="82"/>
+	<SubTexture name="idk30.png" x="0" y="492" width="443" height="82"/>
+	<SubTexture name="idk31.png" x="443" y="492" width="443" height="82"/>
+	<SubTexture name="idk32.png" x="886" y="492" width="443" height="82"/>
+	<SubTexture name="idk33.png" x="1329" y="492" width="443" height="82"/>
+	<SubTexture name="idk34.png" x="0" y="574" width="443" height="82"/>
+	<SubTexture name="idk35.png" x="443" y="574" width="443" height="82"/>
+	<SubTexture name="idk36.png" x="886" y="574" width="443" height="82"/>
+	<SubTexture name="idk37.png" x="1329" y="574" width="443" height="82"/>
+	<SubTexture name="idk38.png" x="0" y="656" width="443" height="82"/>
+	<SubTexture name="idk39.png" x="443" y="656" width="443" height="82"/>
+	<SubTexture name="idk4.png" x="886" y="656" width="443" height="82"/>
+	<SubTexture name="idk40.png" x="1329" y="656" width="443" height="82"/>
+	<SubTexture name="idk41.png" x="0" y="738" width="443" height="82"/>
+	<SubTexture name="idk42.png" x="443" y="738" width="443" height="82"/>
+	<SubTexture name="idk43.png" x="886" y="738" width="443" height="82"/>
+	<SubTexture name="idk44.png" x="1329" y="738" width="443" height="82"/>
+	<SubTexture name="idk45.png" x="0" y="820" width="443" height="82"/>
+	<SubTexture name="idk46.png" x="443" y="820" width="443" height="82"/>
+	<SubTexture name="idk47.png" x="886" y="820" width="443" height="82"/>
+	<SubTexture name="idk48.png" x="1329" y="820" width="443" height="82"/>
+	<SubTexture name="idk49.png" x="0" y="902" width="443" height="82"/>
+	<SubTexture name="idk5.png" x="443" y="902" width="443" height="82"/>
+	<SubTexture name="idk50.png" x="886" y="902" width="443" height="82"/>
+	<SubTexture name="idk51.png" x="1329" y="902" width="443" height="82"/>
+	<SubTexture name="idk52.png" x="0" y="984" width="443" height="82"/>
+	<SubTexture name="idk53.png" x="443" y="984" width="443" height="82"/>
+	<SubTexture name="idk54.png" x="886" y="984" width="443" height="82"/>
+	<SubTexture name="idk55.png" x="1329" y="984" width="443" height="82"/>
+	<SubTexture name="idk56.png" x="0" y="1066" width="443" height="82"/>
+	<SubTexture name="idk6.png" x="443" y="1066" width="443" height="82"/>
+	<SubTexture name="idk7.png" x="886" y="1066" width="443" height="82"/>
+	<SubTexture name="idk8.png" x="1329" y="1066" width="443" height="82"/>
+	<SubTexture name="idk9.png" x="0" y="1148" width="443" height="82"/>
+</TextureAtlas>

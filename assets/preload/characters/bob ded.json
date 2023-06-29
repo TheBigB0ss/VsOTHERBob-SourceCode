@@ -1,0 +1,142 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-215,
+				-179
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "ded left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-205,
+				-176
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "ded down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-265,
+				-79
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "ded up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-236,
+				-113
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "ded right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-245,
+				-171
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "ded idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-245,
+				-172
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			],
+			"name": "ded idle"
+		},
+		{
+			"offsets": [
+				-9,
+				10
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				0,
+				27
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-6,
+				50
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			],
+			"name": "up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bob_ded",
+	"position": [
+		-120,
+		60
+	],
+	"healthicon": "suicide1",
+	"flip_x": false,
+	"healthbar_colors": [
+		101,
+		101,
+		101
+	],
+	"camera_position": [
+		290,
+		220
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

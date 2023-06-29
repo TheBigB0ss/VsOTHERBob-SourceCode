@@ -1,0 +1,76 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "coolswag"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bob",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "now i'm mad"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bob",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "VERY, VERY  MAD"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "stop being a crybaby"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "like when my dad flirt with you"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i want divorce "
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bob",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "for the love of GOD shut the FUCK UP!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\\n!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\\n!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bob",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i want one more song"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "okay"
+		}
+	]
+}

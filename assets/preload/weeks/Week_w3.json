@@ -1,0 +1,59 @@
+{
+	"storyName": "",
+	"difficulties": "",
+	"weekBackground": "",
+	"hideFreeplay": false,
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"suffering",
+			"suicide1",
+			[
+				101,
+				101,
+				101
+			]
+		],
+		[
+			"T song",
+			"T pose",
+			[
+				135,
+				93,
+				55
+			]
+		],
+		[
+			"gummy bambi",
+			"bambi",
+			[
+				60,
+				255,
+				60
+			]
+		],
+		[
+			"party",
+			"gabriel",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "",
+	"hiddenUntilUnlocked": false
+}

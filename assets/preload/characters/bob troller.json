@@ -1,0 +1,142 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				17,
+				-269
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "bob_left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-124,
+				-279
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "bob_down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-95,
+				-309
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "bob_up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				23,
+				-282
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "bob_sing right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-124,
+				-282
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "bob_idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-100
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				-9,
+				10
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				0,
+				27
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-6,
+				50
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			],
+			"name": "up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bob_troller",
+	"position": [
+		0,
+		-30
+	],
+	"healthicon": "bob",
+	"flip_x": false,
+	"healthbar_colors": [
+		172,
+		202,
+		255
+	],
+	"camera_position": [
+		160,
+		340
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

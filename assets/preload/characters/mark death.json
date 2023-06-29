@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				193
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "dead1",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-211,
+				-64
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "dead2",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-211,
+				-64
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "dead3",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/dead_mark",
+	"position": [
+		-310,
+		250
+	],
+	"healthicon": "bf-pixel",
+	"flip_x": true,
+	"healthbar_colors": [
+		123,
+		214,
+		246
+	],
+	"camera_position": [
+		-140,
+		10
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="neve.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="neve0000" x="0" y="0" width="1254" height="759" frameX="0" frameY="0" frameWidth="1254" frameHeight="849"/>
+	<SubTexture name="neve0001" x="0" y="0" width="1254" height="759" frameX="0" frameY="0" frameWidth="1254" frameHeight="849"/>
+	<SubTexture name="neve0002" x="1254" y="0" width="1230" height="767" frameX="-4" frameY="-50" frameWidth="1254" frameHeight="849"/>
+	<SubTexture name="neve0003" x="1254" y="0" width="1230" height="767" frameX="-4" frameY="-50" frameWidth="1254" frameHeight="849"/>
+	<SubTexture name="neve0004" x="2484" y="0" width="1217" height="765" frameX="-2" frameY="-84" frameWidth="1254" frameHeight="849"/>
+	<SubTexture name="neve0005" x="2484" y="0" width="1217" height="765" frameX="-2" frameY="-84" frameWidth="1254" frameHeight="849"/>
+</TextureAtlas>

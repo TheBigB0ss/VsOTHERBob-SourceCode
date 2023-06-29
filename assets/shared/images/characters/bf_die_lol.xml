@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bf die lol.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF Dead Loop0000" x="339" y="428" width="540" height="349" frameX="0" frameY="-6" frameWidth="596" frameHeight="522"/>
+	<SubTexture name="BF Dead Loop0001" x="339" y="428" width="540" height="349" frameX="0" frameY="-6" frameWidth="596" frameHeight="522"/>
+	<SubTexture name="BF Dead Loop0002" x="879" y="428" width="527" height="355" frameX="-7" frameY="0" frameWidth="596" frameHeight="522"/>
+	<SubTexture name="BF Dead Loop0003" x="879" y="428" width="527" height="355" frameX="-7" frameY="0" frameWidth="596" frameHeight="522"/>
+	<SubTexture name="BF Dead Loop0004" x="879" y="428" width="527" height="355" frameX="-7" frameY="0" frameWidth="596" frameHeight="522"/>
+	<SubTexture name="BF Dead Loop0005" x="879" y="428" width="527" height="355" frameX="-7" frameY="0" frameWidth="596" frameHeight="522"/>
+	<SubTexture name="BF Dead Loop0006" x="879" y="428" width="527" height="355" frameX="-7" frameY="0" frameWidth="596" frameHeight="522"/>
+	<SubTexture name="BF Dead Loop0007" x="879" y="428" width="527" height="355" frameX="-7" frameY="0" frameWidth="596" frameHeight="522"/>
+	<SubTexture name="BF Dead Loop0008" x="879" y="428" width="527" height="355" frameX="-7" frameY="0" frameWidth="596" frameHeight="522"/>
+	<SubTexture name="BF Dead Loop0009" x="879" y="428" width="527" height="355" frameX="-7" frameY="0" frameWidth="596" frameHeight="522"/>
+	<SubTexture name="BF Dead Loop0010" x="879" y="428" width="527" height="355" frameX="-7" frameY="0" frameWidth="596" frameHeight="522"/>
+	<SubTexture name="BF Dead Loop0011" x="879" y="428" width="527" height="355" frameX="-7" frameY="0" frameWidth="596" frameHeight="522"/>
+	<SubTexture name="BF Dead Loop0012" x="879" y="428" width="527" height="355" frameX="-7" frameY="0" frameWidth="596" frameHeight="522"/>
+	<SubTexture name="BF Dead Loop0013" x="879" y="428" width="527" height="355" frameX="-7" frameY="0" frameWidth="596" frameHeight="522"/>
+	<SubTexture name="BF Dead Loop0014" x="879" y="428" width="527" height="355" frameX="-7" frameY="0" frameWidth="596" frameHeight="522"/>
+	<SubTexture name="BF Dead Loop0015" x="879" y="428" width="527" height="355" frameX="-7" frameY="0" frameWidth="596" frameHeight="522"/>
+	<SubTexture name="BF Dead Loop0016" x="879" y="428" width="527" height="355" frameX="-7" frameY="0" frameWidth="596" frameHeight="522"/>
+	<SubTexture name="BF Dead Loop0017" x="879" y="428" width="527" height="355" frameX="-7" frameY="0" frameWidth="596" frameHeight="522"/>
+	<SubTexture name="BF Dead Loop0018" x="879" y="428" width="527" height="355" frameX="-7" frameY="0" frameWidth="596" frameHeight="522"/>
+	<SubTexture name="BF Dead Loop0019" x="879" y="428" width="527" height="355" frameX="-7" frameY="0" frameWidth="596" frameHeight="522"/>
+	<SubTexture name="BF Dead Loop0020" x="339" y="428" width="540" height="349" frameX="0" frameY="-6" frameWidth="596" frameHeight="522"/>
+	<SubTexture name="BF Dead Loop0021" x="339" y="428" width="540" height="349" frameX="0" frameY="-6" frameWidth="596" frameHeight="522"/>
+	<SubTexture name="BF Dead Loop0022" x="879" y="428" width="527" height="355" frameX="-7" frameY="0" frameWidth="596" frameHeight="522"/>
+	<SubTexture name="BF Dead Loop0023" x="879" y="428" width="527" height="355" frameX="-7" frameY="0" frameWidth="596" frameHeight="522"/>
+	<SubTexture name="BF Dead Loop0024" x="879" y="428" width="527" height="355" frameX="-7" frameY="0" frameWidth="596" frameHeight="522"/>
+	<SubTexture name="BF Dead Loop0025" x="879" y="428" width="527" height="355" frameX="-7" frameY="0" frameWidth="596" frameHeight="522"/>
+	<SubTexture name="BF Dead Loop0026" x="879" y="428" width="527" height="355" frameX="-7" frameY="0" frameWidth="596" frameHeight="522"/>
+	<SubTexture name="BF Dead Loop0027" x="879" y="428" width="527" height="355" frameX="-7" frameY="0" frameWidth="596" frameHeight="522"/>
+	<SubTexture name="BF Dead Loop0028" x="879" y="428" width="527" height="355" frameX="-7" frameY="0" frameWidth="596" frameHeight="522"/>
+	<SubTexture name="BF Dead Loop0029" x="879" y="428" width="527" height="355" frameX="-7" frameY="0" frameWidth="596" frameHeight="522"/>
+	<SubTexture name="BF Dead Loop0030" x="879" y="428" width="527" height="355" frameX="-7" frameY="0" frameWidth="596" frameHeight="522"/>
+	<SubTexture name="BF Dead Loop0031" x="879" y="428" width="527" height="355" frameX="-7" frameY="0" frameWidth="596" frameHeight="522"/>
+	<SubTexture name="BF Dead Loop0032" x="879" y="428" width="527" height="355" frameX="-7" frameY="0" frameWidth="596" frameHeight="522"/>
+	<SubTexture name="BF Dead Loop0033" x="879" y="428" width="527" height="355" frameX="-7" frameY="0" frameWidth="596" frameHeight="522"/>
+	<SubTexture name="BF Dead Loop0034" x="879" y="428" width="527" height="355" frameX="-7" frameY="0" frameWidth="596" frameHeight="522"/>
+	<SubTexture name="BF Dead Loop0035" x="879" y="428" width="527" height="355" frameX="-7" frameY="0" frameWidth="596" frameHeight="522"/>
+	<SubTexture name="BF Dead Loop0036" x="879" y="428" width="527" height="355" frameX="-7" frameY="0" frameWidth="596" frameHeight="522"/>
+	<SubTexture name="BF Dead Loop0037" x="879" y="428" width="527" height="355" frameX="-7" frameY="0" frameWidth="596" frameHeight="522"/>
+	<SubTexture name="BF Dead Loop0038" x="879" y="428" width="527" height="355" frameX="-7" frameY="0" frameWidth="596" frameHeight="522"/>
+	<SubTexture name="BF Dead Loop0039" x="339" y="428" width="540" height="349" frameX="0" frameY="-6" frameWidth="596" frameHeight="522"/>
+	<SubTexture name="BF Dead Loop0040" x="339" y="428" width="540" height="349" frameX="0" frameY="-6" frameWidth="596" frameHeight="522"/>
+	<SubTexture name="BF Dead Loop0041" x="879" y="428" width="527" height="355" frameX="-7" frameY="0" frameWidth="596" frameHeight="522"/>
+	<SubTexture name="BF Dead Loop0042" x="879" y="428" width="527" height="355" frameX="-7" frameY="0" frameWidth="596" frameHeight="522"/>
+	<SubTexture name="BF Dead Loop0043" x="879" y="428" width="527" height="355" frameX="-7" frameY="0" frameWidth="596" frameHeight="522"/>
+	<SubTexture name="BF Dead Loop0044" x="879" y="428" width="527" height="355" frameX="-7" frameY="0" frameWidth="596" frameHeight="522"/>
+	<SubTexture name="BF Dead Loop0045" x="879" y="428" width="527" height="355" frameX="-7" frameY="0" frameWidth="596" frameHeight="522"/>
+	<SubTexture name="BF Dead Loop0046" x="879" y="428" width="527" height="355" frameX="-7" frameY="0" frameWidth="596" frameHeight="522"/>
+	<SubTexture name="BF Dead Loop0047" x="879" y="428" width="527" height="355" frameX="-7" frameY="0" frameWidth="596" frameHeight="522"/>
+	<SubTexture name="BF Dead Loop0048" x="879" y="428" width="527" height="355" frameX="-7" frameY="0" frameWidth="596" frameHeight="522"/>
+	<SubTexture name="BF Dead Loop0049" x="879" y="428" width="527" height="355" frameX="-7" frameY="0" frameWidth="596" frameHeight="522"/>
+	<SubTexture name="BF Dead Loop0050" x="879" y="428" width="527" height="355" frameX="-7" frameY="0" frameWidth="596" frameHeight="522"/>
+	<SubTexture name="BF Dead Loop0051" x="879" y="428" width="527" height="355" frameX="-7" frameY="0" frameWidth="596" frameHeight="522"/>
+	<SubTexture name="BF Dead Loop0052" x="879" y="428" width="527" height="355" frameX="-7" frameY="0" frameWidth="596" frameHeight="522"/>
+	<SubTexture name="BF Dead Loop0053" x="879" y="428" width="527" height="355" frameX="-7" frameY="0" frameWidth="596" frameHeight="522"/>
+	<SubTexture name="BF Dead Loop0054" x="879" y="428" width="527" height="355" frameX="-7" frameY="0" frameWidth="596" frameHeight="522"/>
+	<SubTexture name="BF Dead Loop0055" x="879" y="428" width="527" height="355" frameX="-7" frameY="0" frameWidth="596" frameHeight="522"/>
+	<SubTexture name="BF Dead Loop0056" x="879" y="428" width="527" height="355" frameX="-7" frameY="0" frameWidth="596" frameHeight="522"/>
+	<SubTexture name="BF Dead Loop0057" x="879" y="428" width="527" height="355" frameX="-7" frameY="0" frameWidth="596" frameHeight="522"/>
+	<SubTexture name="BF Dead Loop0058" x="879" y="428" width="527" height="355" frameX="-7" frameY="0" frameWidth="596" frameHeight="522"/>
+	<SubTexture name="BF Dead Loop0059" x="879" y="428" width="527" height="355" frameX="-7" frameY="0" frameWidth="596" frameHeight="522"/>
+	<SubTexture name="BF Dead confirm0000" x="0" y="0" width="229" height="285" frameX="-6" frameY="0" frameWidth="240" frameHeight="285"/>
+	<SubTexture name="BF Dead confirm0001" x="0" y="0" width="229" height="285" frameX="-6" frameY="0" frameWidth="240" frameHeight="285"/>
+	<SubTexture name="BF Dead confirm0002" x="229" y="0" width="240" height="270" frameX="0" frameY="-14" frameWidth="240" frameHeight="285"/>
+	<SubTexture name="BF Dead confirm0003" x="229" y="0" width="240" height="270" frameX="0" frameY="-14" frameWidth="240" frameHeight="285"/>
+	<SubTexture name="BF Dead confirm0004" x="229" y="0" width="240" height="270" frameX="0" frameY="-14" frameWidth="240" frameHeight="285"/>
+	<SubTexture name="BF Dead confirm0005" x="229" y="0" width="240" height="270" frameX="0" frameY="-14" frameWidth="240" frameHeight="285"/>
+	<SubTexture name="BF Dead confirm0006" x="229" y="0" width="240" height="270" frameX="0" frameY="-14" frameWidth="240" frameHeight="285"/>
+	<SubTexture name="BF Dead confirm0007" x="229" y="0" width="240" height="270" frameX="0" frameY="-14" frameWidth="240" frameHeight="285"/>
+	<SubTexture name="BF Dead confirm0008" x="229" y="0" width="240" height="270" frameX="0" frameY="-14" frameWidth="240" frameHeight="285"/>
+	<SubTexture name="BF Dead confirm0009" x="229" y="0" width="240" height="270" frameX="0" frameY="-14" frameWidth="240" frameHeight="285"/>
+	<SubTexture name="BF Dead confirm0010" x="229" y="0" width="240" height="270" frameX="0" frameY="-14" frameWidth="240" frameHeight="285"/>
+	<SubTexture name="BF Dead confirm0011" x="229" y="0" width="240" height="270" frameX="0" frameY="-14" frameWidth="240" frameHeight="285"/>
+	<SubTexture name="BF Dead confirm0012" x="229" y="0" width="240" height="270" frameX="0" frameY="-14" frameWidth="240" frameHeight="285"/>
+	<SubTexture name="BF Dead confirm0013" x="229" y="0" width="240" height="270" frameX="0" frameY="-14" frameWidth="240" frameHeight="285"/>
+	<SubTexture name="BF Dead confirm0014" x="229" y="0" width="240" height="270" frameX="0" frameY="-14" frameWidth="240" frameHeight="285"/>
+	<SubTexture name="BF Dead confirm0015" x="229" y="0" width="240" height="270" frameX="0" frameY="-14" frameWidth="240" frameHeight="285"/>
+	<SubTexture name="BF Dead confirm0016" x="229" y="0" width="240" height="270" frameX="0" frameY="-14" frameWidth="240" frameHeight="285"/>
+	<SubTexture name="BF Dead confirm0017" x="229" y="0" width="240" height="270" frameX="0" frameY="-14" frameWidth="240" frameHeight="285"/>
+	<SubTexture name="BF Dead confirm0018" x="229" y="0" width="240" height="270" frameX="0" frameY="-14" frameWidth="240" frameHeight="285"/>
+	<SubTexture name="BF Dead confirm0019" x="229" y="0" width="240" height="270" frameX="0" frameY="-14" frameWidth="240" frameHeight="285"/>
+	<SubTexture name="BF Dead confirm0020" x="229" y="0" width="240" height="270" frameX="0" frameY="-14" frameWidth="240" frameHeight="285"/>
+	<SubTexture name="BF Dead confirm0021" x="229" y="0" width="240" height="270" frameX="0" frameY="-14" frameWidth="240" frameHeight="285"/>
+	<SubTexture name="BF Dead confirm0022" x="229" y="0" width="240" height="270" frameX="0" frameY="-14" frameWidth="240" frameHeight="285"/>
+	<SubTexture name="BF Dead confirm0023" x="229" y="0" width="240" height="270" frameX="0" frameY="-14" frameWidth="240" frameHeight="285"/>
+	<SubTexture name="BF Dead confirm0024" x="229" y="0" width="240" height="270" frameX="0" frameY="-14" frameWidth="240" frameHeight="285"/>
+	<SubTexture name="BF Dead confirm0025" x="229" y="0" width="240" height="270" frameX="0" frameY="-14" frameWidth="240" frameHeight="285"/>
+	<SubTexture name="BF Dead confirm0026" x="229" y="0" width="240" height="270" frameX="0" frameY="-14" frameWidth="240" frameHeight="285"/>
+	<SubTexture name="BF Dead confirm0027" x="229" y="0" width="240" height="270" frameX="0" frameY="-14" frameWidth="240" frameHeight="285"/>
+	<SubTexture name="BF Dead confirm0028" x="229" y="0" width="240" height="270" frameX="0" frameY="-14" frameWidth="240" frameHeight="285"/>
+	<SubTexture name="BF Dead confirm0029" x="229" y="0" width="240" height="270" frameX="0" frameY="-14" frameWidth="240" frameHeight="285"/>
+	<SubTexture name="BF Dead confirm0030" x="229" y="0" width="240" height="270" frameX="0" frameY="-14" frameWidth="240" frameHeight="285"/>
+	<SubTexture name="BF Dead confirm0031" x="229" y="0" width="240" height="270" frameX="0" frameY="-14" frameWidth="240" frameHeight="285"/>
+	<SubTexture name="BF Dead confirm0032" x="229" y="0" width="240" height="270" frameX="0" frameY="-14" frameWidth="240" frameHeight="285"/>
+	<SubTexture name="BF Dead confirm0033" x="229" y="0" width="240" height="270" frameX="0" frameY="-14" frameWidth="240" frameHeight="285"/>
+	<SubTexture name="BF Dead confirm0034" x="229" y="0" width="240" height="270" frameX="0" frameY="-14" frameWidth="240" frameHeight="285"/>
+	<SubTexture name="BF dies0000" x="469" y="0" width="428" height="428" frameX="-128" frameY="-25" frameWidth="596" frameHeight="522"/>
+	<SubTexture name="BF dies0001" x="469" y="0" width="428" height="428" frameX="-128" frameY="-25" frameWidth="596" frameHeight="522"/>
+	<SubTexture name="BF dies0002" x="897" y="0" width="452" height="420" frameX="-116" frameY="-33" frameWidth="596" frameHeight="522"/>
+	<SubTexture name="BF dies0003" x="897" y="0" width="452" height="420" frameX="-116" frameY="-33" frameWidth="596" frameHeight="522"/>
+	<SubTexture name="BF dies0004" x="1349" y="0" width="460" height="422" frameX="-118" frameY="-31" frameWidth="596" frameHeight="522"/>
+	<SubTexture name="BF dies0005" x="1349" y="0" width="460" height="422" frameX="-118" frameY="-31" frameWidth="596" frameHeight="522"/>
+	<SubTexture name="BF dies0006" x="0" y="428" width="339" height="452" frameX="-257" frameY="0" frameWidth="596" frameHeight="522"/>
+	<SubTexture name="BF dies0007" x="0" y="428" width="339" height="452" frameX="-257" frameY="0" frameWidth="596" frameHeight="522"/>
+	<SubTexture name="BF dies0008" x="339" y="428" width="540" height="349" frameX="0" frameY="-173" frameWidth="596" frameHeight="522"/>
+	<SubTexture name="BF dies0009" x="339" y="428" width="540" height="349" frameX="0" frameY="-173" frameWidth="596" frameHeight="522"/>
+	<SubTexture name="BF dies0010" x="879" y="428" width="527" height="355" frameX="-7" frameY="-167" frameWidth="596" frameHeight="522"/>
+	<SubTexture name="BF dies0011" x="879" y="428" width="527" height="355" frameX="-7" frameY="-167" frameWidth="596" frameHeight="522"/>
+	<SubTexture name="BF dies0012" x="879" y="428" width="527" height="355" frameX="-7" frameY="-167" frameWidth="596" frameHeight="522"/>
+	<SubTexture name="BF dies0013" x="879" y="428" width="527" height="355" frameX="-7" frameY="-167" frameWidth="596" frameHeight="522"/>
+	<SubTexture name="BF dies0014" x="879" y="428" width="527" height="355" frameX="-7" frameY="-167" frameWidth="596" frameHeight="522"/>
+</TextureAtlas>

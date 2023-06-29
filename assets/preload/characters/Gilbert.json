@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				354,
+				-51
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				365,
+				-59
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				361,
+				-40
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				370,
+				-49
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				353,
+				-50
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gilbert",
+	"position": [
+		460,
+		200
+	],
+	"healthicon": "Gilbert",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		80,
+		0
+	],
+	"camera_position": [
+		-280,
+		100
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

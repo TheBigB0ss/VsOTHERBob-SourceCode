@@ -1,0 +1,59 @@
+{
+	"songs": [
+		[
+			"showtime",
+			"bob",
+			[
+			      172,
+				202,
+				255
+			]
+		],
+		[
+			"insanity",
+			"bob",
+			[
+				172,
+				202,
+				255
+			]
+		],
+		[
+			"rivals",
+			"madbob",
+			[
+				172,
+				202,
+				255
+			]
+		],
+		[
+			"blood bath",
+			"monsterbob",
+			[
+				155,
+				155,
+				155
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "dave",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "another bob mod",
+	"weekName": "Week 1",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

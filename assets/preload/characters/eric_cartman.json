@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "ECidle"
+		},
+		{
+			"offsets": [
+				88,
+				43
+			],
+			"loop": false,
+			"fps": 22,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "ECleft"
+		},
+		{
+			"offsets": [
+				13,
+				122
+			],
+			"loop": false,
+			"fps": 22,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "ECdown"
+		},
+		{
+			"offsets": [
+				37,
+				315
+			],
+			"loop": false,
+			"fps": 22,
+			"anim": "singUP",
+			"indices": [],
+			"name": "ECup"
+		},
+		{
+			"offsets": [
+				-13,
+				17
+			],
+			"loop": false,
+			"fps": 22,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "ECright"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/eric_cartmo",
+	"position": [
+		40,
+		310
+	],
+	"healthicon": "cartman",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		51,
+		51
+	],
+	"camera_position": [
+		-30,
+		-20
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

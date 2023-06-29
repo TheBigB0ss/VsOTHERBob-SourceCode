@@ -1,0 +1,142 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				-79
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left_real"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-24,
+				-326
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down_real"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-151,
+				34
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up_real"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-84,
+				-109
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right_real"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				16,
+				-107
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle_real"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-100
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "idle",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-9,
+				10
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "left",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				27
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "right",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-6,
+				50
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "up",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/real_bob_png",
+	"position": [
+		-30,
+		30
+	],
+	"healthicon": "real",
+	"flip_x": false,
+	"healthbar_colors": [
+		215,
+		239,
+		255
+	],
+	"camera_position": [
+		70,
+		170
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

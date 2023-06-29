@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="PUPPET.png">
+<SubTexture name="jumpscare0000" x="0" y="0" width="692" height="519" frameX="0" frameY="0" frameWidth="692" frameHeight="519" />
+<SubTexture name="jumpscare0001" x="692" y="0" width="692" height="519" frameX="0" frameY="0" frameWidth="692" frameHeight="519" />
+<SubTexture name="jumpscare0002" x="0" y="519" width="692" height="519" frameX="0" frameY="0" frameWidth="692" frameHeight="519" />
+<SubTexture name="jumpscare0003" x="692" y="519" width="692" height="519" frameX="0" frameY="0" frameWidth="692" frameHeight="519" />
+<SubTexture name="jumpscare0004" x="0" y="1038" width="692" height="519" frameX="0" frameY="0" frameWidth="692" frameHeight="519" />
+<SubTexture name="jumpscare0005" x="692" y="1038" width="692" height="519" frameX="0" frameY="0" frameWidth="692" frameHeight="519" />
+<SubTexture name="jumpscare0006" x="0" y="1557" width="692" height="519" frameX="0" frameY="0" frameWidth="692" frameHeight="519" />
+<SubTexture name="jumpscare0007" x="692" y="1557" width="692" height="519" frameX="0" frameY="0" frameWidth="692" frameHeight="519" />
+<SubTexture name="jumpscare0008" x="0" y="2076" width="692" height="519" frameX="0" frameY="0" frameWidth="692" frameHeight="519" />
+<SubTexture name="jumpscare0009" x="692" y="2076" width="692" height="519" frameX="0" frameY="0" frameWidth="692" frameHeight="519" />
+<SubTexture name="jumpscare0010" x="0" y="2595" width="692" height="519" frameX="0" frameY="0" frameWidth="692" frameHeight="519" />
+</TextureAtlas>

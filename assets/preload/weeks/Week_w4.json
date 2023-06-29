@@ -1,0 +1,41 @@
+{
+	"storyName": "",
+	"difficulties": "",
+	"weekBackground": "",
+	"hideFreeplay": false,
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"salvation",
+			"spring",
+			[
+				20,
+				100,
+				0
+			]
+		],
+		[
+			"midnight snack",
+			"starved",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "",
+	"hiddenUntilUnlocked": false
+}

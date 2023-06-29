@@ -1,0 +1,92 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i win B)))))))"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "coolswag"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "Gary",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "fuck"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bob",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "finally, i can get revenge on you"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "dude, cuz you re pissed it was just a rap battle"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bob",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "h........ are you right wanna sing one more song for fun ?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "yeah :)"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "Gary",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "coolswag"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": ""
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "Gary",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "damn son!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "fuc "
+		}
+	]
+}

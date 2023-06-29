@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="demon_bob_phase_2.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="corrupted down0000" x="0" y="0" width="1509" height="676" frameX="0" frameY="0" frameWidth="1509" frameHeight="679"/>
+	<SubTexture name="corrupted down0001" x="1509" y="0" width="1429" height="627" frameX="-34" frameY="-49" frameWidth="1509" frameHeight="679"/>
+	<SubTexture name="corrupted down0002" x="2938" y="0" width="1185" height="632" frameX="-150" frameY="-47" frameWidth="1509" frameHeight="679"/>
+	<SubTexture name="corrupted down0003" x="2938" y="0" width="1185" height="632" frameX="-150" frameY="-47" frameWidth="1509" frameHeight="679"/>
+	<SubTexture name="corrupted down0004" x="4123" y="0" width="870" height="629" frameX="-388" frameY="-47" frameWidth="1509" frameHeight="679"/>
+	<SubTexture name="corrupted down0005" x="4123" y="0" width="870" height="629" frameX="-388" frameY="-47" frameWidth="1509" frameHeight="679"/>
+	<SubTexture name="corrupted down0006" x="4993" y="0" width="1008" height="627" frameX="-233" frameY="-47" frameWidth="1509" frameHeight="679"/>
+	<SubTexture name="corrupted down0007" x="6001" y="0" width="955" height="630" frameX="-261" frameY="-47" frameWidth="1509" frameHeight="679"/>
+	<SubTexture name="corrupted down0008" x="6956" y="0" width="681" height="622" frameX="-388" frameY="-47" frameWidth="1509" frameHeight="679"/>
+	<SubTexture name="corrupted down0009" x="6956" y="0" width="681" height="622" frameX="-388" frameY="-47" frameWidth="1509" frameHeight="679"/>
+	<SubTexture name="corrupted idle0000" x="0" y="676" width="653" height="735" frameX="-20" frameY="-18" frameWidth="682" frameHeight="753"/>
+	<SubTexture name="corrupted idle0001" x="0" y="676" width="653" height="735" frameX="-20" frameY="-18" frameWidth="682" frameHeight="753"/>
+	<SubTexture name="corrupted idle0002" x="653" y="676" width="673" height="653" frameX="-2" frameY="-55" frameWidth="682" frameHeight="753"/>
+	<SubTexture name="corrupted idle0003" x="653" y="676" width="673" height="653" frameX="-2" frameY="-55" frameWidth="682" frameHeight="753"/>
+	<SubTexture name="corrupted idle0004" x="1326" y="676" width="682" height="709" frameX="0" frameY="0" frameWidth="682" frameHeight="753"/>
+	<SubTexture name="corrupted idle0005" x="1326" y="676" width="682" height="709" frameX="0" frameY="0" frameWidth="682" frameHeight="753"/>
+	<SubTexture name="corrupted idle0006" x="2008" y="676" width="672" height="690" frameX="-6" frameY="-19" frameWidth="682" frameHeight="753"/>
+	<SubTexture name="corrupted idle0007" x="2008" y="676" width="672" height="690" frameX="-6" frameY="-19" frameWidth="682" frameHeight="753"/>
+	<SubTexture name="corrupted idle0008" x="2680" y="676" width="670" height="692" frameX="-7" frameY="-18" frameWidth="682" frameHeight="753"/>
+	<SubTexture name="corrupted idle0009" x="2680" y="676" width="670" height="692" frameX="-7" frameY="-18" frameWidth="682" frameHeight="753"/>
+	<SubTexture name="corrupted left0000" x="3350" y="676" width="1225" height="678" frameX="0" frameY="-25" frameWidth="1306" frameHeight="728"/>
+	<SubTexture name="corrupted left0001" x="4575" y="676" width="1206" height="723" frameX="-62" frameY="-1" frameWidth="1306" frameHeight="728"/>
+	<SubTexture name="corrupted left0002" x="5781" y="676" width="1240" height="728" frameX="-66" frameY="0" frameWidth="1306" frameHeight="728"/>
+	<SubTexture name="corrupted left0003" x="5781" y="676" width="1240" height="728" frameX="-66" frameY="0" frameWidth="1306" frameHeight="728"/>
+	<SubTexture name="corrupted left0004" x="0" y="1411" width="1197" height="728" frameX="-66" frameY="0" frameWidth="1306" frameHeight="728"/>
+	<SubTexture name="corrupted left0005" x="0" y="1411" width="1197" height="728" frameX="-66" frameY="0" frameWidth="1306" frameHeight="728"/>
+	<SubTexture name="corrupted left0006" x="1197" y="1411" width="1197" height="728" frameX="-66" frameY="0" frameWidth="1306" frameHeight="728"/>
+	<SubTexture name="corrupted left0007" x="1197" y="1411" width="1197" height="728" frameX="-66" frameY="0" frameWidth="1306" frameHeight="728"/>
+	<SubTexture name="corrupted left0008" x="1197" y="1411" width="1197" height="728" frameX="-66" frameY="0" frameWidth="1306" frameHeight="728"/>
+	<SubTexture name="corrupted left0009" x="1197" y="1411" width="1197" height="728" frameX="-66" frameY="0" frameWidth="1306" frameHeight="728"/>
+	<SubTexture name="corrupted right0000" x="2394" y="1411" width="950" height="723" frameX="-5" frameY="0" frameWidth="955" frameHeight="726"/>
+	<SubTexture name="corrupted right0001" x="3344" y="1411" width="894" height="697" frameX="0" frameY="-22" frameWidth="955" frameHeight="726"/>
+	<SubTexture name="corrupted right0002" x="4238" y="1411" width="869" height="693" frameX="0" frameY="-23" frameWidth="955" frameHeight="726"/>
+	<SubTexture name="corrupted right0003" x="5107" y="1411" width="858" height="703" frameX="0" frameY="-23" frameWidth="955" frameHeight="726"/>
+	<SubTexture name="corrupted right0004" x="5107" y="1411" width="858" height="703" frameX="0" frameY="-23" frameWidth="955" frameHeight="726"/>
+	<SubTexture name="corrupted right0005" x="5965" y="1411" width="838" height="685" frameX="0" frameY="-23" frameWidth="955" frameHeight="726"/>
+	<SubTexture name="corrupted right0006" x="5965" y="1411" width="838" height="685" frameX="0" frameY="-23" frameWidth="955" frameHeight="726"/>
+	<SubTexture name="corrupted right0007" x="6803" y="1411" width="813" height="683" frameX="0" frameY="-23" frameWidth="955" frameHeight="726"/>
+	<SubTexture name="corrupted right0008" x="0" y="2139" width="734" height="683" frameX="0" frameY="-23" frameWidth="955" frameHeight="726"/>
+	<SubTexture name="corrupted right0009" x="0" y="2139" width="734" height="683" frameX="0" frameY="-23" frameWidth="955" frameHeight="726"/>
+	<SubTexture name="corrupted up0000" x="734" y="2139" width="667" height="901"/>
+	<SubTexture name="corrupted up0001" x="1401" y="2139" width="658" height="880" frameX="-1" frameY="-21" frameWidth="667" frameHeight="901"/>
+	<SubTexture name="corrupted up0002" x="2059" y="2139" width="656" height="878" frameX="-1" frameY="-23" frameWidth="667" frameHeight="901"/>
+	<SubTexture name="corrupted up0003" x="2059" y="2139" width="656" height="878" frameX="-1" frameY="-23" frameWidth="667" frameHeight="901"/>
+	<SubTexture name="corrupted up0004" x="2059" y="2139" width="656" height="878" frameX="-1" frameY="-23" frameWidth="667" frameHeight="901"/>
+	<SubTexture name="corrupted up0005" x="2059" y="2139" width="656" height="878" frameX="-1" frameY="-23" frameWidth="667" frameHeight="901"/>
+	<SubTexture name="corrupted up0006" x="2059" y="2139" width="656" height="878" frameX="-1" frameY="-23" frameWidth="667" frameHeight="901"/>
+	<SubTexture name="corrupted up0007" x="2059" y="2139" width="656" height="878" frameX="-1" frameY="-23" frameWidth="667" frameHeight="901"/>
+	<SubTexture name="corrupted up0008" x="2059" y="2139" width="656" height="878" frameX="-1" frameY="-23" frameWidth="667" frameHeight="901"/>
+	<SubTexture name="corrupted up0009" x="2059" y="2139" width="656" height="878" frameX="-1" frameY="-23" frameWidth="667" frameHeight="901"/>
+</TextureAtlas>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="barra_v2.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bob's chocolat0000" x="0" y="0" width="524" height="417" frameX="0" frameY="0" frameWidth="524" frameHeight="421"/>
+	<SubTexture name="bob's chocolat0001" x="0" y="0" width="524" height="417" frameX="0" frameY="0" frameWidth="524" frameHeight="421"/>
+	<SubTexture name="bob's chocolat0002" x="0" y="0" width="524" height="417" frameX="0" frameY="0" frameWidth="524" frameHeight="421"/>
+	<SubTexture name="bob's chocolat0003" x="0" y="417" width="524" height="361" frameX="0" frameY="-60" frameWidth="524" frameHeight="421"/>
+	<SubTexture name="bob's chocolat0004" x="0" y="417" width="524" height="361" frameX="0" frameY="-60" frameWidth="524" frameHeight="421"/>
+	<SubTexture name="bob's chocolat0005" x="0" y="417" width="524" height="361" frameX="0" frameY="-60" frameWidth="524" frameHeight="421"/>
+</TextureAtlas>

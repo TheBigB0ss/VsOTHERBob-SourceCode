@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"mortimer",
+			"gary",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"unhappy",
+			"corruptedbob",
+			[
+				95,
+				93,
+				93
+			]
+		],
+		[
+			"gore",
+			"monsterbob",
+			[
+				55,
+				53,
+				53
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "boo",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "oooooo the second week :O",
+	"weekName": "Morbius",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

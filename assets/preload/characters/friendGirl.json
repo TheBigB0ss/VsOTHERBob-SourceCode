@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-227,
+				-107
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "gf"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gfpaintXP",
+	"position": [
+		40,
+		170
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		70,
+		100
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

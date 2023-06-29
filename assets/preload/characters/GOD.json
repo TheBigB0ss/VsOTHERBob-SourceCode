@@ -1,0 +1,142 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-188,
+				-15
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "god left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-231,
+				-119
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "god down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-280,
+				-36
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "god up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-250,
+				-96
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "god right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-227,
+				-107
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "god idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				-9,
+				151
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				0,
+				27
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-6,
+				50
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			],
+			"name": "up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/god",
+	"position": [
+		-330,
+		-80
+	],
+	"healthicon": "GOD",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		120,
+		160
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

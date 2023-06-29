@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="combo.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="combo0000" x="39" y="39" width="522" height="88" frameX="0" frameY="-151" frameWidth="585" frameHeight="239"/>
+	<SubTexture name="combo0001" x="591" y="39" width="448" height="109" frameX="-137" frameY="-73" frameWidth="585" frameHeight="239"/>
+	<SubTexture name="combo0002" x="1069" y="39" width="354" height="148" frameX="-205" frameY="-38" frameWidth="585" frameHeight="239"/>
+	<SubTexture name="combo0003" x="1453" y="39" width="354" height="148" frameX="-205" frameY="-38" frameWidth="585" frameHeight="239"/>
+	<SubTexture name="combo0004" x="39" y="217" width="332" height="182" frameX="-192" frameY="0" frameWidth="585" frameHeight="239"/>
+	<SubTexture name="combo0005" x="401" y="217" width="331" height="182" frameX="-192" frameY="0" frameWidth="585" frameHeight="239"/>
+	<SubTexture name="combo0006" x="762" y="217" width="390" height="124" frameX="-148" frameY="-50" frameWidth="585" frameHeight="239"/>
+	<SubTexture name="combo0007" x="1182" y="217" width="391" height="123" frameX="-149" frameY="-51" frameWidth="585" frameHeight="239"/>
+	<SubTexture name="combo0008" x="1603" y="217" width="355" height="144" frameX="-165" frameY="-42" frameWidth="585" frameHeight="239"/>
+	<SubTexture name="combo0009" x="39" y="429" width="356" height="144" frameX="-164" frameY="-42" frameWidth="585" frameHeight="239"/>
+	<SubTexture name="combo0010" x="425" y="429" width="357" height="143" frameX="-161" frameY="-40" frameWidth="585" frameHeight="239"/>
+	<SubTexture name="combo0011" x="812" y="429" width="358" height="143" frameX="-161" frameY="-40" frameWidth="585" frameHeight="239"/>
+	<SubTexture name="combo0012" x="1200" y="429" width="356" height="143" frameX="-165" frameY="-34" frameWidth="585" frameHeight="239"/>
+	<SubTexture name="combo0013" x="1586" y="429" width="356" height="143" frameX="-164" frameY="-34" frameWidth="585" frameHeight="239"/>
+	<SubTexture name="combo0014" x="39" y="603" width="355" height="142" frameX="-166" frameY="-36" frameWidth="585" frameHeight="239"/>
+</TextureAtlas>

@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="troll face remake.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="troll_down0000" x="0" y="0" width="484" height="383"/>
+	<SubTexture name="troll_down0001" x="484" y="0" width="484" height="365" frameX="0" frameY="-18" frameWidth="484" frameHeight="383"/>
+	<SubTexture name="troll_down0002" x="968" y="0" width="484" height="343" frameX="0" frameY="-40" frameWidth="484" frameHeight="383"/>
+	<SubTexture name="troll_down0003" x="1452" y="0" width="484" height="319" frameX="0" frameY="-64" frameWidth="484" frameHeight="383"/>
+	<SubTexture name="troll_down0004" x="1936" y="0" width="484" height="315" frameX="0" frameY="-68" frameWidth="484" frameHeight="383"/>
+	<SubTexture name="troll_down0005" x="1936" y="0" width="484" height="315" frameX="0" frameY="-68" frameWidth="484" frameHeight="383"/>
+	<SubTexture name="troll_down0006" x="1936" y="0" width="484" height="315" frameX="0" frameY="-68" frameWidth="484" frameHeight="383"/>
+	<SubTexture name="troll_down0007" x="1936" y="0" width="484" height="315" frameX="0" frameY="-68" frameWidth="484" frameHeight="383"/>
+	<SubTexture name="troll_down0008" x="1936" y="0" width="484" height="315" frameX="0" frameY="-68" frameWidth="484" frameHeight="383"/>
+	<SubTexture name="troll_down0009" x="1936" y="0" width="484" height="315" frameX="0" frameY="-68" frameWidth="484" frameHeight="383"/>
+	<SubTexture name="troll_down0010" x="1936" y="0" width="484" height="315" frameX="0" frameY="-68" frameWidth="484" frameHeight="383"/>
+	<SubTexture name="troll_down0011" x="1936" y="0" width="484" height="315" frameX="0" frameY="-68" frameWidth="484" frameHeight="383"/>
+	<SubTexture name="troll_down0012" x="1936" y="0" width="484" height="315" frameX="0" frameY="-68" frameWidth="484" frameHeight="383"/>
+	<SubTexture name="troll_down0013" x="1936" y="0" width="484" height="315" frameX="0" frameY="-68" frameWidth="484" frameHeight="383"/>
+	<SubTexture name="troll_down0014" x="1936" y="0" width="484" height="315" frameX="0" frameY="-68" frameWidth="484" frameHeight="383"/>
+	<SubTexture name="troll_down0015" x="2420" y="0" width="484" height="349" frameX="0" frameY="-34" frameWidth="484" frameHeight="383"/>
+	<SubTexture name="troll_down0016" x="2904" y="0" width="484" height="351" frameX="0" frameY="-32" frameWidth="484" frameHeight="383"/>
+	<SubTexture name="troll_idle0000" x="3388" y="0" width="449" height="448" frameX="-94" frameY="0" frameWidth="637" frameHeight="449"/>
+	<SubTexture name="troll_idle0001" x="3388" y="0" width="449" height="448" frameX="-94" frameY="0" frameWidth="637" frameHeight="449"/>
+	<SubTexture name="troll_idle0002" x="0" y="448" width="489" height="428" frameX="-74" frameY="-20" frameWidth="637" frameHeight="449"/>
+	<SubTexture name="troll_idle0003" x="0" y="448" width="489" height="428" frameX="-74" frameY="-20" frameWidth="637" frameHeight="449"/>
+	<SubTexture name="troll_idle0004" x="489" y="448" width="577" height="409" frameX="-30" frameY="-40" frameWidth="637" frameHeight="449"/>
+	<SubTexture name="troll_idle0005" x="489" y="448" width="577" height="409" frameX="-30" frameY="-40" frameWidth="637" frameHeight="449"/>
+	<SubTexture name="troll_idle0006" x="1066" y="448" width="637" height="392" frameX="0" frameY="-56" frameWidth="637" frameHeight="449"/>
+	<SubTexture name="troll_idle0007" x="1066" y="448" width="637" height="392" frameX="0" frameY="-56" frameWidth="637" frameHeight="449"/>
+	<SubTexture name="troll_idle0008" x="1703" y="448" width="577" height="408" frameX="-30" frameY="-40" frameWidth="637" frameHeight="449"/>
+	<SubTexture name="troll_idle0009" x="1703" y="448" width="577" height="408" frameX="-30" frameY="-40" frameWidth="637" frameHeight="449"/>
+	<SubTexture name="troll_idle0010" x="0" y="448" width="489" height="428" frameX="-74" frameY="-20" frameWidth="637" frameHeight="449"/>
+	<SubTexture name="troll_idle0011" x="0" y="448" width="489" height="428" frameX="-74" frameY="-20" frameWidth="637" frameHeight="449"/>
+	<SubTexture name="troll_idle0012" x="3388" y="0" width="449" height="448" frameX="-94" frameY="0" frameWidth="637" frameHeight="449"/>
+	<SubTexture name="troll_idle0013" x="3388" y="0" width="449" height="448" frameX="-94" frameY="0" frameWidth="637" frameHeight="449"/>
+	<SubTexture name="troll_left0000" x="2280" y="448" width="378" height="396" frameX="-104" frameY="0" frameWidth="482" frameHeight="398"/>
+	<SubTexture name="troll_left0001" x="2658" y="448" width="416" height="381" frameX="-66" frameY="-16" frameWidth="482" frameHeight="398"/>
+	<SubTexture name="troll_left0002" x="3074" y="448" width="436" height="364" frameX="-45" frameY="-33" frameWidth="482" frameHeight="398"/>
+	<SubTexture name="troll_left0003" x="3510" y="448" width="465" height="339" frameX="-16" frameY="-59" frameWidth="482" frameHeight="398"/>
+	<SubTexture name="troll_left0004" x="0" y="876" width="478" height="327" frameX="-3" frameY="-71" frameWidth="482" frameHeight="398"/>
+	<SubTexture name="troll_left0005" x="478" y="876" width="481" height="323" frameX="0" frameY="-75" frameWidth="482" frameHeight="398"/>
+	<SubTexture name="troll_left0006" x="478" y="876" width="481" height="323" frameX="0" frameY="-75" frameWidth="482" frameHeight="398"/>
+	<SubTexture name="troll_left0007" x="478" y="876" width="481" height="323" frameX="0" frameY="-75" frameWidth="482" frameHeight="398"/>
+	<SubTexture name="troll_left0008" x="478" y="876" width="481" height="323" frameX="0" frameY="-75" frameWidth="482" frameHeight="398"/>
+	<SubTexture name="troll_left0009" x="478" y="876" width="481" height="323" frameX="0" frameY="-75" frameWidth="482" frameHeight="398"/>
+	<SubTexture name="troll_left0010" x="478" y="876" width="481" height="323" frameX="0" frameY="-75" frameWidth="482" frameHeight="398"/>
+	<SubTexture name="troll_left0011" x="478" y="876" width="481" height="323" frameX="0" frameY="-75" frameWidth="482" frameHeight="398"/>
+	<SubTexture name="troll_left0012" x="478" y="876" width="481" height="323" frameX="0" frameY="-75" frameWidth="482" frameHeight="398"/>
+	<SubTexture name="troll_left0013" x="478" y="876" width="481" height="323" frameX="0" frameY="-75" frameWidth="482" frameHeight="398"/>
+	<SubTexture name="troll_left0014" x="478" y="876" width="481" height="323" frameX="0" frameY="-75" frameWidth="482" frameHeight="398"/>
+	<SubTexture name="troll_left0015" x="959" y="876" width="469" height="341" frameX="-12" frameY="-57" frameWidth="482" frameHeight="398"/>
+	<SubTexture name="troll_left0016" x="1428" y="876" width="463" height="343" frameX="-18" frameY="-55" frameWidth="482" frameHeight="398"/>
+	<SubTexture name="troll_right0000" x="1891" y="876" width="826" height="501" frameX="-63" frameY="0" frameWidth="953" frameHeight="501"/>
+	<SubTexture name="troll_right0001" x="2717" y="876" width="854" height="501" frameX="-50" frameY="0" frameWidth="953" frameHeight="501"/>
+	<SubTexture name="troll_right0002" x="0" y="1377" width="877" height="501" frameX="-38" frameY="0" frameWidth="953" frameHeight="501"/>
+	<SubTexture name="troll_right0003" x="877" y="1377" width="935" height="501" frameX="-9" frameY="0" frameWidth="953" frameHeight="501"/>
+	<SubTexture name="troll_right0004" x="1812" y="1377" width="953" height="501"/>
+	<SubTexture name="troll_right0005" x="1812" y="1377" width="953" height="501"/>
+	<SubTexture name="troll_right0006" x="1812" y="1377" width="953" height="501"/>
+	<SubTexture name="troll_right0007" x="1812" y="1377" width="953" height="501"/>
+	<SubTexture name="troll_right0008" x="1812" y="1377" width="953" height="501"/>
+	<SubTexture name="troll_right0009" x="1812" y="1377" width="953" height="501"/>
+	<SubTexture name="troll_right0010" x="1812" y="1377" width="953" height="501"/>
+	<SubTexture name="troll_right0011" x="1812" y="1377" width="953" height="501"/>
+	<SubTexture name="troll_right0012" x="1812" y="1377" width="953" height="501"/>
+	<SubTexture name="troll_right0013" x="1812" y="1377" width="953" height="501"/>
+	<SubTexture name="troll_right0014" x="1812" y="1377" width="953" height="501"/>
+	<SubTexture name="troll_right0015" x="2765" y="1377" width="910" height="501" frameX="-1" frameY="0" frameWidth="953" frameHeight="501"/>
+	<SubTexture name="troll_up0000" x="0" y="1878" width="485" height="544" frameX="0" frameY="-28" frameWidth="485" frameHeight="572"/>
+	<SubTexture name="troll_up0001" x="485" y="1878" width="466" height="556" frameX="-10" frameY="-16" frameWidth="485" frameHeight="572"/>
+	<SubTexture name="troll_up0002" x="951" y="1878" width="450" height="570" frameX="-18" frameY="-2" frameWidth="485" frameHeight="572"/>
+	<SubTexture name="troll_up0003" x="1401" y="1878" width="446" height="572" frameX="-20" frameY="0" frameWidth="485" frameHeight="572"/>
+	<SubTexture name="troll_up0004" x="1401" y="1878" width="446" height="572" frameX="-20" frameY="0" frameWidth="485" frameHeight="572"/>
+	<SubTexture name="troll_up0005" x="1401" y="1878" width="446" height="572" frameX="-20" frameY="0" frameWidth="485" frameHeight="572"/>
+	<SubTexture name="troll_up0006" x="1401" y="1878" width="446" height="572" frameX="-20" frameY="0" frameWidth="485" frameHeight="572"/>
+	<SubTexture name="troll_up0007" x="1401" y="1878" width="446" height="572" frameX="-20" frameY="0" frameWidth="485" frameHeight="572"/>
+	<SubTexture name="troll_up0008" x="1401" y="1878" width="446" height="572" frameX="-20" frameY="0" frameWidth="485" frameHeight="572"/>
+	<SubTexture name="troll_up0009" x="1401" y="1878" width="446" height="572" frameX="-20" frameY="0" frameWidth="485" frameHeight="572"/>
+	<SubTexture name="troll_up0010" x="1401" y="1878" width="446" height="572" frameX="-20" frameY="0" frameWidth="485" frameHeight="572"/>
+	<SubTexture name="troll_up0011" x="1401" y="1878" width="446" height="572" frameX="-20" frameY="0" frameWidth="485" frameHeight="572"/>
+	<SubTexture name="troll_up0012" x="1401" y="1878" width="446" height="572" frameX="-20" frameY="0" frameWidth="485" frameHeight="572"/>
+	<SubTexture name="troll_up0013" x="1401" y="1878" width="446" height="572" frameX="-20" frameY="0" frameWidth="485" frameHeight="572"/>
+	<SubTexture name="troll_up0014" x="1401" y="1878" width="446" height="572" frameX="-20" frameY="0" frameWidth="485" frameHeight="572"/>
+	<SubTexture name="troll_up0015" x="1847" y="1878" width="454" height="566" frameX="-16" frameY="-6" frameWidth="485" frameHeight="572"/>
+</TextureAtlas>

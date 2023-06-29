@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gfpaintXP.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gf0000" x="0" y="0" width="628" height="449" frameX="-26" frameY="0" frameWidth="681" frameHeight="449"/>
+	<SubTexture name="gf0001" x="0" y="0" width="628" height="449" frameX="-26" frameY="0" frameWidth="681" frameHeight="449"/>
+	<SubTexture name="gf0002" x="628" y="0" width="661" height="432" frameX="-10" frameY="-16" frameWidth="681" frameHeight="449"/>
+	<SubTexture name="gf0003" x="628" y="0" width="661" height="432" frameX="-10" frameY="-16" frameWidth="681" frameHeight="449"/>
+	<SubTexture name="gf0004" x="1289" y="0" width="681" height="426" frameX="0" frameY="-22" frameWidth="681" frameHeight="449"/>
+	<SubTexture name="gf0005" x="1289" y="0" width="681" height="426" frameX="0" frameY="-22" frameWidth="681" frameHeight="449"/>
+</TextureAtlas>

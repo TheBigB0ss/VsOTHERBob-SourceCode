@@ -1,0 +1,142 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				447,
+				-104
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "bf left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				413,
+				-137
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "bf down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				396,
+				-44
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "bf up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				409,
+				-104
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "bf right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				421,
+				-104
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "bf idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-100
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				-9,
+				10
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				0,
+				27
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-6,
+				50
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			],
+			"name": "up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bf_mongus",
+	"position": [
+		470,
+		290
+	],
+	"healthicon": "BFMongus",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		42,
+		255
+	],
+	"camera_position": [
+		460,
+		80
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

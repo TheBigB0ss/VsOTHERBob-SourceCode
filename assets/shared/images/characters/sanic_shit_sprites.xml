@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sanic_shit sprites.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down_sanic0000" x="0" y="0" width="907" height="777"/>
+	<SubTexture name="down_sanic0001" x="907" y="0" width="907" height="777"/>
+	<SubTexture name="down_sanic0002" x="907" y="0" width="907" height="777"/>
+	<SubTexture name="down_sanic0003" x="1814" y="0" width="907" height="777"/>
+	<SubTexture name="down_sanic0004" x="1814" y="0" width="907" height="777"/>
+	<SubTexture name="down_sanic0005" x="2721" y="0" width="907" height="777"/>
+	<SubTexture name="down_sanic0006" x="2721" y="0" width="907" height="777"/>
+	<SubTexture name="down_sanic0007" x="2721" y="0" width="907" height="777"/>
+	<SubTexture name="down_sanic0008" x="2721" y="0" width="907" height="777"/>
+	<SubTexture name="down_sanic0009" x="2721" y="0" width="907" height="777"/>
+	<SubTexture name="down_sanic0010" x="2721" y="0" width="907" height="777"/>
+	<SubTexture name="down_sanic0011" x="2721" y="0" width="907" height="777"/>
+	<SubTexture name="down_sanic0012" x="2721" y="0" width="907" height="777"/>
+	<SubTexture name="down_sanic0013" x="2721" y="0" width="907" height="777"/>
+	<SubTexture name="down_sanic0014" x="2721" y="0" width="907" height="777"/>
+	<SubTexture name="idle_sanic0000" x="3628" y="0" width="907" height="777"/>
+	<SubTexture name="idle_sanic0001" x="3628" y="0" width="907" height="777"/>
+	<SubTexture name="idle_sanic0002" x="4535" y="0" width="907" height="777"/>
+	<SubTexture name="idle_sanic0003" x="4535" y="0" width="907" height="777"/>
+	<SubTexture name="idle_sanic0004" x="5442" y="0" width="907" height="777"/>
+	<SubTexture name="idle_sanic0005" x="5442" y="0" width="907" height="777"/>
+	<SubTexture name="idle_sanic0006" x="6349" y="0" width="907" height="777"/>
+	<SubTexture name="idle_sanic0007" x="6349" y="0" width="907" height="777"/>
+	<SubTexture name="idle_sanic0008" x="6349" y="0" width="907" height="777"/>
+	<SubTexture name="idle_sanic0009" x="6349" y="0" width="907" height="777"/>
+	<SubTexture name="idle_sanic0010" x="6349" y="0" width="907" height="777"/>
+	<SubTexture name="idle_sanic0011" x="6349" y="0" width="907" height="777"/>
+	<SubTexture name="idle_sanic0012" x="6349" y="0" width="907" height="777"/>
+	<SubTexture name="idle_sanic0013" x="6349" y="0" width="907" height="777"/>
+	<SubTexture name="idle_sanic0014" x="6349" y="0" width="907" height="777"/>
+	<SubTexture name="left_sanic0000" x="7256" y="0" width="907" height="777"/>
+	<SubTexture name="left_sanic0001" x="0" y="777" width="907" height="777"/>
+	<SubTexture name="left_sanic0002" x="0" y="777" width="907" height="777"/>
+	<SubTexture name="left_sanic0003" x="907" y="777" width="907" height="777"/>
+	<SubTexture name="left_sanic0004" x="907" y="777" width="907" height="777"/>
+	<SubTexture name="left_sanic0005" x="1814" y="777" width="907" height="777"/>
+	<SubTexture name="left_sanic0006" x="1814" y="777" width="907" height="777"/>
+	<SubTexture name="left_sanic0007" x="1814" y="777" width="907" height="777"/>
+	<SubTexture name="left_sanic0008" x="1814" y="777" width="907" height="777"/>
+	<SubTexture name="left_sanic0009" x="1814" y="777" width="907" height="777"/>
+	<SubTexture name="left_sanic0010" x="1814" y="777" width="907" height="777"/>
+	<SubTexture name="left_sanic0011" x="1814" y="777" width="907" height="777"/>
+	<SubTexture name="left_sanic0012" x="1814" y="777" width="907" height="777"/>
+	<SubTexture name="left_sanic0013" x="1814" y="777" width="907" height="777"/>
+	<SubTexture name="left_sanic0014" x="1814" y="777" width="907" height="777"/>
+	<SubTexture name="right_sanic0000" x="2721" y="777" width="950" height="777"/>
+	<SubTexture name="right_sanic0001" x="3671" y="777" width="907" height="777" frameX="0" frameY="0" frameWidth="950" frameHeight="777"/>
+	<SubTexture name="right_sanic0002" x="3671" y="777" width="907" height="777" frameX="0" frameY="0" frameWidth="950" frameHeight="777"/>
+	<SubTexture name="right_sanic0003" x="4578" y="777" width="907" height="777" frameX="0" frameY="0" frameWidth="950" frameHeight="777"/>
+	<SubTexture name="right_sanic0004" x="4578" y="777" width="907" height="777" frameX="0" frameY="0" frameWidth="950" frameHeight="777"/>
+	<SubTexture name="right_sanic0005" x="5485" y="777" width="907" height="777" frameX="0" frameY="0" frameWidth="950" frameHeight="777"/>
+	<SubTexture name="right_sanic0006" x="5485" y="777" width="907" height="777" frameX="0" frameY="0" frameWidth="950" frameHeight="777"/>
+	<SubTexture name="right_sanic0007" x="6392" y="777" width="907" height="777" frameX="0" frameY="0" frameWidth="950" frameHeight="777"/>
+	<SubTexture name="right_sanic0008" x="6392" y="777" width="907" height="777" frameX="0" frameY="0" frameWidth="950" frameHeight="777"/>
+	<SubTexture name="right_sanic0009" x="6392" y="777" width="907" height="777" frameX="0" frameY="0" frameWidth="950" frameHeight="777"/>
+	<SubTexture name="right_sanic0010" x="6392" y="777" width="907" height="777" frameX="0" frameY="0" frameWidth="950" frameHeight="777"/>
+	<SubTexture name="right_sanic0011" x="6392" y="777" width="907" height="777" frameX="0" frameY="0" frameWidth="950" frameHeight="777"/>
+	<SubTexture name="right_sanic0012" x="6392" y="777" width="907" height="777" frameX="0" frameY="0" frameWidth="950" frameHeight="777"/>
+	<SubTexture name="right_sanic0013" x="6392" y="777" width="907" height="777" frameX="0" frameY="0" frameWidth="950" frameHeight="777"/>
+	<SubTexture name="right_sanic0014" x="6392" y="777" width="907" height="777" frameX="0" frameY="0" frameWidth="950" frameHeight="777"/>
+	<SubTexture name="up_sanic0000" x="0" y="1554" width="907" height="777"/>
+	<SubTexture name="up_sanic0001" x="907" y="1554" width="907" height="777"/>
+	<SubTexture name="up_sanic0002" x="1814" y="1554" width="907" height="777"/>
+	<SubTexture name="up_sanic0003" x="2721" y="1554" width="907" height="777"/>
+	<SubTexture name="up_sanic0004" x="2721" y="1554" width="907" height="777"/>
+	<SubTexture name="up_sanic0005" x="2721" y="1554" width="907" height="777"/>
+	<SubTexture name="up_sanic0006" x="2721" y="1554" width="907" height="777"/>
+	<SubTexture name="up_sanic0007" x="2721" y="1554" width="907" height="777"/>
+	<SubTexture name="up_sanic0008" x="2721" y="1554" width="907" height="777"/>
+	<SubTexture name="up_sanic0009" x="2721" y="1554" width="907" height="777"/>
+	<SubTexture name="up_sanic0010" x="2721" y="1554" width="907" height="777"/>
+	<SubTexture name="up_sanic0011" x="2721" y="1554" width="907" height="777"/>
+	<SubTexture name="up_sanic0012" x="2721" y="1554" width="907" height="777"/>
+	<SubTexture name="up_sanic0013" x="2721" y="1554" width="907" height="777"/>
+	<SubTexture name="up_sanic0014" x="2721" y="1554" width="907" height="777"/>
+</TextureAtlas>

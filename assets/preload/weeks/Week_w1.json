@@ -1,0 +1,104 @@
+{
+	"storyName": "",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"ourple",
+			"guy",
+			[
+				163,
+				87,
+				171
+			]
+		],
+		[
+			"pogs",
+			"bob",
+			[
+				172,
+				202,
+				255
+			]
+		],
+		[
+			"supernova",
+			"gary",
+			[
+				235,
+				233,
+				233
+			]
+		],
+		[
+			"drugs and rap",
+			"maconha",
+			[
+				186,
+				80,
+				73
+			]
+		],
+		[
+			"boobs",
+			"joke",
+			[
+				172,
+				202,
+				255
+			]
+		],
+		[
+			"dingle",
+			"dingle",
+			[
+				120,
+				100,
+				80
+			]
+		],
+		[
+			"goffy funkin",
+			"dingle",
+			[
+				120,
+				100,
+				80
+			]
+		],
+		[
+			"abandoned",
+			"TrollFace",
+			[
+				235,
+				233,
+				233
+			]
+		],
+		[
+			"rumble",
+			"pet",
+			[
+				0,
+				156,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "",
+	"hiddenUntilUnlocked": false
+}

@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="petter.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="petter_down0000" x="0" y="0" width="612" height="523" frameX="0" frameY="-54" frameWidth="612" frameHeight="577"/>
+	<SubTexture name="petter_down0001" x="0" y="0" width="612" height="523" frameX="0" frameY="-54" frameWidth="612" frameHeight="577"/>
+	<SubTexture name="petter_down0002" x="612" y="0" width="533" height="573" frameX="-40" frameY="-4" frameWidth="612" frameHeight="577"/>
+	<SubTexture name="petter_down0003" x="612" y="0" width="533" height="573" frameX="-40" frameY="-4" frameWidth="612" frameHeight="577"/>
+	<SubTexture name="petter_down0004" x="1145" y="0" width="521" height="577" frameX="-46" frameY="0" frameWidth="612" frameHeight="577"/>
+	<SubTexture name="petter_down0005" x="1145" y="0" width="521" height="577" frameX="-46" frameY="0" frameWidth="612" frameHeight="577"/>
+	<SubTexture name="petter_down0006" x="1145" y="0" width="521" height="577" frameX="-46" frameY="0" frameWidth="612" frameHeight="577"/>
+	<SubTexture name="petter_down0007" x="1145" y="0" width="521" height="577" frameX="-46" frameY="0" frameWidth="612" frameHeight="577"/>
+	<SubTexture name="petter_down0008" x="1145" y="0" width="521" height="577" frameX="-46" frameY="0" frameWidth="612" frameHeight="577"/>
+	<SubTexture name="petter_down0009" x="1145" y="0" width="521" height="577" frameX="-46" frameY="0" frameWidth="612" frameHeight="577"/>
+	<SubTexture name="petter_down0010" x="1145" y="0" width="521" height="577" frameX="-46" frameY="0" frameWidth="612" frameHeight="577"/>
+	<SubTexture name="petter_down0011" x="1145" y="0" width="521" height="577" frameX="-46" frameY="0" frameWidth="612" frameHeight="577"/>
+	<SubTexture name="petter_down0012" x="1145" y="0" width="521" height="577" frameX="-46" frameY="0" frameWidth="612" frameHeight="577"/>
+	<SubTexture name="petter_down0013" x="1145" y="0" width="521" height="577" frameX="-46" frameY="0" frameWidth="612" frameHeight="577"/>
+	<SubTexture name="petter_down0014" x="1145" y="0" width="521" height="577" frameX="-46" frameY="0" frameWidth="612" frameHeight="577"/>
+	<SubTexture name="petter_idle0000" x="1666" y="0" width="511" height="703" frameX="0" frameY="-4" frameWidth="511" frameHeight="707"/>
+	<SubTexture name="petter_idle0001" x="1666" y="0" width="511" height="703" frameX="0" frameY="-4" frameWidth="511" frameHeight="707"/>
+	<SubTexture name="petter_idle0002" x="2177" y="0" width="499" height="707" frameX="-6" frameY="0" frameWidth="511" frameHeight="707"/>
+	<SubTexture name="petter_idle0003" x="2177" y="0" width="499" height="707" frameX="-6" frameY="0" frameWidth="511" frameHeight="707"/>
+	<SubTexture name="petter_idle0004" x="2676" y="0" width="479" height="707" frameX="-16" frameY="0" frameWidth="511" frameHeight="707"/>
+	<SubTexture name="petter_idle0005" x="2676" y="0" width="479" height="707" frameX="-16" frameY="0" frameWidth="511" frameHeight="707"/>
+	<SubTexture name="petter_idle0006" x="3155" y="0" width="475" height="706" frameX="-18" frameY="-1" frameWidth="511" frameHeight="707"/>
+	<SubTexture name="petter_idle0007" x="3155" y="0" width="475" height="706" frameX="-18" frameY="-1" frameWidth="511" frameHeight="707"/>
+	<SubTexture name="petter_idle0008" x="3155" y="0" width="475" height="706" frameX="-18" frameY="-1" frameWidth="511" frameHeight="707"/>
+	<SubTexture name="petter_idle0009" x="3155" y="0" width="475" height="706" frameX="-18" frameY="-1" frameWidth="511" frameHeight="707"/>
+	<SubTexture name="petter_idle0010" x="3155" y="0" width="475" height="706" frameX="-18" frameY="-1" frameWidth="511" frameHeight="707"/>
+	<SubTexture name="petter_idle0011" x="3155" y="0" width="475" height="706" frameX="-18" frameY="-1" frameWidth="511" frameHeight="707"/>
+	<SubTexture name="petter_idle0012" x="3155" y="0" width="475" height="706" frameX="-18" frameY="-1" frameWidth="511" frameHeight="707"/>
+	<SubTexture name="petter_idle0013" x="3155" y="0" width="475" height="706" frameX="-18" frameY="-1" frameWidth="511" frameHeight="707"/>
+	<SubTexture name="petter_idle0014" x="3155" y="0" width="475" height="706" frameX="-18" frameY="-1" frameWidth="511" frameHeight="707"/>
+	<SubTexture name="petter_left0000" x="0" y="707" width="566" height="752"/>
+	<SubTexture name="petter_left0001" x="0" y="707" width="566" height="752"/>
+	<SubTexture name="petter_left0002" x="566" y="707" width="477" height="752" frameX="-83" frameY="0" frameWidth="566" frameHeight="752"/>
+	<SubTexture name="petter_left0003" x="566" y="707" width="477" height="752" frameX="-83" frameY="0" frameWidth="566" frameHeight="752"/>
+	<SubTexture name="petter_left0004" x="1043" y="707" width="471" height="752" frameX="-89" frameY="0" frameWidth="566" frameHeight="752"/>
+	<SubTexture name="petter_left0005" x="1043" y="707" width="471" height="752" frameX="-89" frameY="0" frameWidth="566" frameHeight="752"/>
+	<SubTexture name="petter_left0006" x="1043" y="707" width="471" height="752" frameX="-89" frameY="0" frameWidth="566" frameHeight="752"/>
+	<SubTexture name="petter_left0007" x="1043" y="707" width="471" height="752" frameX="-89" frameY="0" frameWidth="566" frameHeight="752"/>
+	<SubTexture name="petter_left0008" x="1043" y="707" width="471" height="752" frameX="-89" frameY="0" frameWidth="566" frameHeight="752"/>
+	<SubTexture name="petter_left0009" x="1043" y="707" width="471" height="752" frameX="-89" frameY="0" frameWidth="566" frameHeight="752"/>
+	<SubTexture name="petter_left0010" x="1043" y="707" width="471" height="752" frameX="-89" frameY="0" frameWidth="566" frameHeight="752"/>
+	<SubTexture name="petter_left0011" x="1043" y="707" width="471" height="752" frameX="-89" frameY="0" frameWidth="566" frameHeight="752"/>
+	<SubTexture name="petter_left0012" x="1043" y="707" width="471" height="752" frameX="-89" frameY="0" frameWidth="566" frameHeight="752"/>
+	<SubTexture name="petter_left0013" x="1043" y="707" width="471" height="752" frameX="-89" frameY="0" frameWidth="566" frameHeight="752"/>
+	<SubTexture name="petter_left0014" x="1043" y="707" width="471" height="752" frameX="-89" frameY="0" frameWidth="566" frameHeight="752"/>
+	<SubTexture name="petter_right0000" x="1514" y="707" width="756" height="546" frameX="-2" frameY="0" frameWidth="758" frameHeight="546"/>
+	<SubTexture name="petter_right0001" x="1514" y="707" width="756" height="546" frameX="-2" frameY="0" frameWidth="758" frameHeight="546"/>
+	<SubTexture name="petter_right0002" x="2270" y="707" width="697" height="540" frameX="-1" frameY="-1" frameWidth="758" frameHeight="546"/>
+	<SubTexture name="petter_right0003" x="2270" y="707" width="697" height="540" frameX="-1" frameY="-1" frameWidth="758" frameHeight="546"/>
+	<SubTexture name="petter_right0004" x="2967" y="707" width="664" height="506" frameX="0" frameY="-16" frameWidth="758" frameHeight="546"/>
+	<SubTexture name="petter_right0005" x="2967" y="707" width="664" height="506" frameX="0" frameY="-16" frameWidth="758" frameHeight="546"/>
+	<SubTexture name="petter_right0006" x="0" y="1459" width="654" height="513" frameX="0" frameY="-12" frameWidth="758" frameHeight="546"/>
+	<SubTexture name="petter_right0007" x="0" y="1459" width="654" height="513" frameX="0" frameY="-12" frameWidth="758" frameHeight="546"/>
+	<SubTexture name="petter_right0008" x="0" y="1459" width="654" height="513" frameX="0" frameY="-12" frameWidth="758" frameHeight="546"/>
+	<SubTexture name="petter_right0009" x="0" y="1459" width="654" height="513" frameX="0" frameY="-12" frameWidth="758" frameHeight="546"/>
+	<SubTexture name="petter_right0010" x="0" y="1459" width="654" height="513" frameX="0" frameY="-12" frameWidth="758" frameHeight="546"/>
+	<SubTexture name="petter_right0011" x="0" y="1459" width="654" height="513" frameX="0" frameY="-12" frameWidth="758" frameHeight="546"/>
+	<SubTexture name="petter_right0012" x="0" y="1459" width="654" height="513" frameX="0" frameY="-12" frameWidth="758" frameHeight="546"/>
+	<SubTexture name="petter_right0013" x="0" y="1459" width="654" height="513" frameX="0" frameY="-12" frameWidth="758" frameHeight="546"/>
+	<SubTexture name="petter_right0014" x="0" y="1459" width="654" height="513" frameX="0" frameY="-12" frameWidth="758" frameHeight="546"/>
+	<SubTexture name="petter_up0000" x="654" y="1459" width="547" height="782" frameX="0" frameY="0" frameWidth="583" frameHeight="787"/>
+	<SubTexture name="petter_up0001" x="654" y="1459" width="547" height="782" frameX="0" frameY="0" frameWidth="583" frameHeight="787"/>
+	<SubTexture name="petter_up0002" x="1201" y="1459" width="570" height="742" frameX="-13" frameY="-45" frameWidth="583" frameHeight="787"/>
+	<SubTexture name="petter_up0003" x="1201" y="1459" width="570" height="742" frameX="-13" frameY="-45" frameWidth="583" frameHeight="787"/>
+	<SubTexture name="petter_up0004" x="1771" y="1459" width="567" height="739" frameX="-16" frameY="-47" frameWidth="583" frameHeight="787"/>
+	<SubTexture name="petter_up0005" x="1771" y="1459" width="567" height="739" frameX="-16" frameY="-47" frameWidth="583" frameHeight="787"/>
+	<SubTexture name="petter_up0006" x="1771" y="1459" width="567" height="739" frameX="-16" frameY="-47" frameWidth="583" frameHeight="787"/>
+	<SubTexture name="petter_up0007" x="1771" y="1459" width="567" height="739" frameX="-16" frameY="-47" frameWidth="583" frameHeight="787"/>
+	<SubTexture name="petter_up0008" x="1771" y="1459" width="567" height="739" frameX="-16" frameY="-47" frameWidth="583" frameHeight="787"/>
+	<SubTexture name="petter_up0009" x="1771" y="1459" width="567" height="739" frameX="-16" frameY="-47" frameWidth="583" frameHeight="787"/>
+	<SubTexture name="petter_up0010" x="1771" y="1459" width="567" height="739" frameX="-16" frameY="-47" frameWidth="583" frameHeight="787"/>
+	<SubTexture name="petter_up0011" x="1771" y="1459" width="567" height="739" frameX="-16" frameY="-47" frameWidth="583" frameHeight="787"/>
+	<SubTexture name="petter_up0012" x="1771" y="1459" width="567" height="739" frameX="-16" frameY="-47" frameWidth="583" frameHeight="787"/>
+	<SubTexture name="petter_up0013" x="1771" y="1459" width="567" height="739" frameX="-16" frameY="-47" frameWidth="583" frameHeight="787"/>
+	<SubTexture name="petter_up0014" x="1771" y="1459" width="567" height="739" frameX="-16" frameY="-47" frameWidth="583" frameHeight="787"/>
+</TextureAtlas>

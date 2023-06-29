@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="rockstar freddy.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle" x="0" y="0" width="174" height="290"/>
+	<SubTexture name="mad" x="174" y="0" width="174" height="290"/>
+</TextureAtlas>

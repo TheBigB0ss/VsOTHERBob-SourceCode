@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SPIN CAT.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="spin-kitty-cat_0" x="0" y="0" width="220" height="220"/>
+	<SubTexture name="spin-kitty-cat_1" x="220" y="0" width="220" height="220"/>
+	<SubTexture name="spin-kitty-cat_10" x="440" y="0" width="220" height="220"/>
+	<SubTexture name="spin-kitty-cat_11" x="660" y="0" width="220" height="220"/>
+	<SubTexture name="spin-kitty-cat_2" x="0" y="220" width="220" height="220"/>
+	<SubTexture name="spin-kitty-cat_3" x="220" y="220" width="220" height="220"/>
+	<SubTexture name="spin-kitty-cat_4" x="440" y="220" width="220" height="220"/>
+	<SubTexture name="spin-kitty-cat_5" x="660" y="220" width="220" height="220"/>
+	<SubTexture name="spin-kitty-cat_6" x="0" y="440" width="220" height="220"/>
+	<SubTexture name="spin-kitty-cat_7" x="220" y="440" width="220" height="220"/>
+	<SubTexture name="spin-kitty-cat_8" x="440" y="440" width="220" height="220"/>
+	<SubTexture name="spin-kitty-cat_9" x="660" y="440" width="220" height="220"/>
+</TextureAtlas>

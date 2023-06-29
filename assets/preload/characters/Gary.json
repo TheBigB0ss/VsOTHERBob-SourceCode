@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-354,
+				-329
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "i",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-183,
+				-337
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "l",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-305,
+				-325
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "d",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-365,
+				-310
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "u",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-263,
+				-261
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "r",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/garyv2",
+	"position": [
+		-240,
+		-30
+	],
+	"healthicon": "gary",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		300,
+		320
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

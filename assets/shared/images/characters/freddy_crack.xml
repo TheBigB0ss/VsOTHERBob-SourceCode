@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="freddy_crack.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="feddy down0000" x="0" y="0" width="532" height="825" frameX="-3" frameY="-23" frameWidth="535" frameHeight="848"/>
+	<SubTexture name="feddy down0001" x="0" y="0" width="532" height="825" frameX="-3" frameY="-23" frameWidth="535" frameHeight="848"/>
+	<SubTexture name="feddy down0002" x="532" y="0" width="515" height="848" frameX="0" frameY="0" frameWidth="535" frameHeight="848"/>
+	<SubTexture name="feddy down0003" x="532" y="0" width="515" height="848" frameX="0" frameY="0" frameWidth="535" frameHeight="848"/>
+	<SubTexture name="feddy down0004" x="1047" y="0" width="515" height="848" frameX="0" frameY="0" frameWidth="535" frameHeight="848"/>
+	<SubTexture name="feddy down0005" x="1047" y="0" width="515" height="848" frameX="0" frameY="0" frameWidth="535" frameHeight="848"/>
+	<SubTexture name="feddy down0006" x="1562" y="0" width="515" height="848" frameX="0" frameY="0" frameWidth="535" frameHeight="848"/>
+	<SubTexture name="feddy down0007" x="1562" y="0" width="515" height="848" frameX="0" frameY="0" frameWidth="535" frameHeight="848"/>
+	<SubTexture name="feddy down0008" x="2077" y="0" width="515" height="848" frameX="0" frameY="0" frameWidth="535" frameHeight="848"/>
+	<SubTexture name="feddy down0009" x="2077" y="0" width="515" height="848" frameX="0" frameY="0" frameWidth="535" frameHeight="848"/>
+	<SubTexture name="feddy idle0000" x="2592" y="0" width="532" height="900" frameX="-7" frameY="-52" frameWidth="539" frameHeight="952"/>
+	<SubTexture name="feddy idle0001" x="2592" y="0" width="532" height="900" frameX="-7" frameY="-52" frameWidth="539" frameHeight="952"/>
+	<SubTexture name="feddy idle0002" x="3124" y="0" width="522" height="952" frameX="-3" frameY="0" frameWidth="539" frameHeight="952"/>
+	<SubTexture name="feddy idle0003" x="3124" y="0" width="522" height="952" frameX="-3" frameY="0" frameWidth="539" frameHeight="952"/>
+	<SubTexture name="feddy idle0004" x="0" y="952" width="515" height="937" frameX="0" frameY="-15" frameWidth="539" frameHeight="952"/>
+	<SubTexture name="feddy idle0005" x="0" y="952" width="515" height="937" frameX="0" frameY="-15" frameWidth="539" frameHeight="952"/>
+	<SubTexture name="feddy idle0006" x="515" y="952" width="514" height="938" frameX="0" frameY="-14" frameWidth="539" frameHeight="952"/>
+	<SubTexture name="feddy idle0007" x="515" y="952" width="514" height="938" frameX="0" frameY="-14" frameWidth="539" frameHeight="952"/>
+	<SubTexture name="feddy idle0008" x="1029" y="952" width="514" height="938" frameX="0" frameY="-14" frameWidth="539" frameHeight="952"/>
+	<SubTexture name="feddy idle0009" x="1029" y="952" width="514" height="938" frameX="0" frameY="-14" frameWidth="539" frameHeight="952"/>
+	<SubTexture name="feddy left0000" x="1543" y="952" width="567" height="954"/>
+	<SubTexture name="feddy left0001" x="1543" y="952" width="567" height="954"/>
+	<SubTexture name="feddy left0002" x="2110" y="952" width="539" height="924" frameX="-2" frameY="-30" frameWidth="567" frameHeight="954"/>
+	<SubTexture name="feddy left0003" x="2110" y="952" width="539" height="924" frameX="-2" frameY="-30" frameWidth="567" frameHeight="954"/>
+	<SubTexture name="feddy left0004" x="2649" y="952" width="539" height="924" frameX="-2" frameY="-30" frameWidth="567" frameHeight="954"/>
+	<SubTexture name="feddy left0005" x="2649" y="952" width="539" height="924" frameX="-2" frameY="-30" frameWidth="567" frameHeight="954"/>
+	<SubTexture name="feddy left0006" x="3188" y="952" width="539" height="924" frameX="-2" frameY="-30" frameWidth="567" frameHeight="954"/>
+	<SubTexture name="feddy left0007" x="3188" y="952" width="539" height="924" frameX="-2" frameY="-30" frameWidth="567" frameHeight="954"/>
+	<SubTexture name="feddy left0008" x="0" y="1906" width="539" height="924" frameX="-2" frameY="-30" frameWidth="567" frameHeight="954"/>
+	<SubTexture name="feddy left0009" x="0" y="1906" width="539" height="924" frameX="-2" frameY="-30" frameWidth="567" frameHeight="954"/>
+	<SubTexture name="feddy right0000" x="539" y="1906" width="496" height="934" frameX="0" frameY="-2" frameWidth="496" frameHeight="936"/>
+	<SubTexture name="feddy right0001" x="539" y="1906" width="496" height="934" frameX="0" frameY="-2" frameWidth="496" frameHeight="936"/>
+	<SubTexture name="feddy right0002" x="1035" y="1906" width="492" height="936" frameX="-2" frameY="0" frameWidth="496" frameHeight="936"/>
+	<SubTexture name="feddy right0003" x="1035" y="1906" width="492" height="936" frameX="-2" frameY="0" frameWidth="496" frameHeight="936"/>
+	<SubTexture name="feddy right0004" x="1527" y="1906" width="492" height="936" frameX="-2" frameY="0" frameWidth="496" frameHeight="936"/>
+	<SubTexture name="feddy right0005" x="1527" y="1906" width="492" height="936" frameX="-2" frameY="0" frameWidth="496" frameHeight="936"/>
+	<SubTexture name="feddy right0006" x="2019" y="1906" width="492" height="936" frameX="-2" frameY="0" frameWidth="496" frameHeight="936"/>
+	<SubTexture name="feddy right0007" x="2019" y="1906" width="492" height="936" frameX="-2" frameY="0" frameWidth="496" frameHeight="936"/>
+	<SubTexture name="feddy right0008" x="2511" y="1906" width="492" height="936" frameX="-2" frameY="0" frameWidth="496" frameHeight="936"/>
+	<SubTexture name="feddy right0009" x="2511" y="1906" width="492" height="936" frameX="-2" frameY="0" frameWidth="496" frameHeight="936"/>
+	<SubTexture name="feddy up0000" x="3003" y="1906" width="492" height="984" frameX="0" frameY="0" frameWidth="492" frameHeight="985"/>
+	<SubTexture name="feddy up0001" x="3003" y="1906" width="492" height="984" frameX="0" frameY="0" frameWidth="492" frameHeight="985"/>
+	<SubTexture name="feddy up0002" x="3495" y="1906" width="487" height="934" frameX="-4" frameY="-51" frameWidth="492" frameHeight="985"/>
+	<SubTexture name="feddy up0003" x="3495" y="1906" width="487" height="934" frameX="-4" frameY="-51" frameWidth="492" frameHeight="985"/>
+	<SubTexture name="feddy up0004" x="0" y="2890" width="487" height="934" frameX="-4" frameY="-51" frameWidth="492" frameHeight="985"/>
+	<SubTexture name="feddy up0005" x="0" y="2890" width="487" height="934" frameX="-4" frameY="-51" frameWidth="492" frameHeight="985"/>
+	<SubTexture name="feddy up0006" x="487" y="2890" width="487" height="934" frameX="-4" frameY="-51" frameWidth="492" frameHeight="985"/>
+	<SubTexture name="feddy up0007" x="487" y="2890" width="487" height="934" frameX="-4" frameY="-51" frameWidth="492" frameHeight="985"/>
+	<SubTexture name="feddy up0008" x="974" y="2890" width="487" height="934" frameX="-4" frameY="-51" frameWidth="492" frameHeight="985"/>
+	<SubTexture name="feddy up0009" x="974" y="2890" width="487" height="934" frameX="-4" frameY="-51" frameWidth="492" frameHeight="985"/>
+</TextureAtlas>

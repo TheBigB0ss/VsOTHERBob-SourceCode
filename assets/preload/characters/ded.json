@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				168,
+				-589
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "ded"
+		},
+		{
+			"offsets": [
+				204,
+				-270
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "dielol",
+			"indices": [],
+			"name": "DEAD"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ded_suicide",
+	"position": [
+		60,
+		-140
+	],
+	"healthicon": "suicide",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-210,
+		560
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

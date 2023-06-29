@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="preto.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="preto0000" x="0" y="0" width="506" height="380" frameX="0" frameY="-48" frameWidth="506" frameHeight="428"/>
+	<SubTexture name="preto0001" x="0" y="0" width="506" height="380" frameX="0" frameY="-48" frameWidth="506" frameHeight="428"/>
+	<SubTexture name="preto0002" x="506" y="0" width="415" height="425" frameX="-87" frameY="-1" frameWidth="506" frameHeight="428"/>
+	<SubTexture name="preto0003" x="506" y="0" width="415" height="425" frameX="-87" frameY="-1" frameWidth="506" frameHeight="428"/>
+	<SubTexture name="preto0004" x="0" y="425" width="412" height="427" frameX="-94" frameY="0" frameWidth="506" frameHeight="428"/>
+	<SubTexture name="preto0005" x="0" y="425" width="412" height="427" frameX="-94" frameY="0" frameWidth="506" frameHeight="428"/>
+	<SubTexture name="preto0006" x="412" y="425" width="413" height="427" frameX="-92" frameY="0" frameWidth="506" frameHeight="428"/>
+	<SubTexture name="preto0007" x="412" y="425" width="413" height="427" frameX="-92" frameY="0" frameWidth="506" frameHeight="428"/>
+	<SubTexture name="preto0008" x="412" y="425" width="413" height="427" frameX="-92" frameY="0" frameWidth="506" frameHeight="428"/>
+	<SubTexture name="preto0009" x="412" y="425" width="413" height="427" frameX="-92" frameY="0" frameWidth="506" frameHeight="428"/>
+</TextureAtlas>

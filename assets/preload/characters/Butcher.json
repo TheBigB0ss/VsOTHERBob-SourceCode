@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-314,
+				-63
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-637,
+				-196
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "dowm",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-646,
+				181
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-652,
+				-64
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-252,
+				120
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/saco",
+	"position": [
+		-680,
+		-70
+	],
+	"healthicon": "Butcher",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		84,
+		84
+	],
+	"camera_position": [
+		800,
+		210
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7
+}

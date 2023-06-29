@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bob_menu-3D.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle.png" x="0" y="0" width="1247" height="630"/>
+	<SubTexture name="idle1.png" x="0" y="0" width="1247" height="630"/>
+	<SubTexture name="idle2.png" x="1247" y="0" width="1247" height="630"/>
+	<SubTexture name="idle3.png" x="1247" y="0" width="1247" height="630"/>
+	<SubTexture name="idle4.png" x="2494" y="0" width="1247" height="630"/>
+	<SubTexture name="idle5.png" x="2494" y="0" width="1247" height="630"/>
+	<SubTexture name="idle6.png" x="0" y="630" width="1247" height="630"/>
+	<SubTexture name="idle7.png" x="0" y="630" width="1247" height="630"/>
+</TextureAtlas>

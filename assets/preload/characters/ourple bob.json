@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "i",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				170,
+				20
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "l",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-27,
+				-102
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "d",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				207,
+				62
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "u",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-44,
+				16
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "r",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/ourplebob",
+	"position": [
+		120,
+		270
+	],
+	"healthicon": "ourple bob",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		40,
+		70
+	],
+	"sing_duration": 8.39999999999999,
+	"scale": 1
+}

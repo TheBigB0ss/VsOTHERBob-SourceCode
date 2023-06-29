@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-21,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "3D_BF idle"
+		},
+		{
+			"offsets": [
+				-25,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "3D_BF left"
+		},
+		{
+			"offsets": [
+				-10,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "3D_BF down"
+		},
+		{
+			"offsets": [
+				-28,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "3D_BF up"
+		},
+		{
+			"offsets": [
+				-28,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "3D_BF right"
+		},
+		{
+			"offsets": [
+				-25,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "3D_BF ded"
+		},
+		{
+			"offsets": [
+				-28,
+				-5
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "3D_BF muerto loop"
+		},
+		{
+			"offsets": [
+				-96,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "3D_BF confir"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/3D_BF",
+	"position": [
+		-180,
+		190
+	],
+	"healthicon": "bf3D",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		40,
+		30
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

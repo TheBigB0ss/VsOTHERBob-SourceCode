@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				208,
+				-269
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "Suicide",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				204,
+				-270
+			],
+			"anim": "idle-loop",
+			"fps": 12,
+			"name": "DEAD",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/suicide_animation",
+	"position": [
+		60,
+		-140
+	],
+	"healthicon": "suicide",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-210,
+		560
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

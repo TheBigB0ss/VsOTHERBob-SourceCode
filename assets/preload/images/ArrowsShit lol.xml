@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ArrowsShit lol.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="arrow left.png" x="0" y="0" width="200" height="210"/>
+	<SubTexture name="arrow push left.png" x="200" y="0" width="200" height="210"/>
+	<SubTexture name="arrow push right.png" x="400" y="0" width="200" height="210"/>
+	<SubTexture name="arrow right.png" x="600" y="0" width="200" height="210"/>
+	<SubTexture name="lock.png" x="800" y="0" width="150" height="150"/>
+</TextureAtlas>

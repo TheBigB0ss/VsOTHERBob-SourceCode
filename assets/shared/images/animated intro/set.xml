@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="set.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="20000" x="56" y="56" width="184" height="201" frameX="-89" frameY="-78" frameWidth="277" frameHeight="342"/>
+	<SubTexture name="20001" x="300" y="56" width="277" height="342"/>
+	<SubTexture name="20002" x="300" y="56" width="277" height="342"/>
+	<SubTexture name="20003" x="637" y="56" width="230" height="294" frameX="-36" frameY="-22" frameWidth="277" frameHeight="342"/>
+	<SubTexture name="20004" x="637" y="56" width="230" height="294" frameX="-36" frameY="-22" frameWidth="277" frameHeight="342"/>
+	<SubTexture name="20005" x="56" y="458" width="217" height="285" frameX="-50" frameY="-25" frameWidth="277" frameHeight="342"/>
+	<SubTexture name="20006" x="56" y="458" width="217" height="285" frameX="-50" frameY="-25" frameWidth="277" frameHeight="342"/>
+	<SubTexture name="20007" x="56" y="458" width="217" height="285" frameX="-50" frameY="-25" frameWidth="277" frameHeight="342"/>
+	<SubTexture name="20008" x="333" y="458" width="171" height="255" frameX="-83" frameY="-40" frameWidth="277" frameHeight="342"/>
+	<SubTexture name="20009" x="333" y="458" width="171" height="255" frameX="-83" frameY="-40" frameWidth="277" frameHeight="342"/>
+</TextureAtlas>

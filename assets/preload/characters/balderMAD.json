@@ -1,0 +1,153 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				676,
+				-18
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "baldi left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				376,
+				-109
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "baldi down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				556,
+				201
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "baldi up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				766,
+				171
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "baldi right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				256,
+				-29
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "baldi idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				586,
+				-19
+			],
+			"fps": 24,
+			"anim": "attack",
+			"indices": [],
+			"name": "baldi hit"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-100
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "idle",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-9,
+				10
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "left",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				27
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "right",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-6,
+				50
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "up",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/baldi_mad_ass",
+	"position": [
+		440,
+		60
+	],
+	"healthicon": "bal",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		215,
+		0
+	],
+	"camera_position": [
+		-530,
+		100
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"bitcrusher",
+			"3D Bob",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"overtime",
+			"3D Bob",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"overdrive",
+			"3D Bob",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Bonus Week",
+	"weekName": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

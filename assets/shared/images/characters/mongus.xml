@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mongus.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="mongus down0000" x="0" y="0" width="325" height="272" frameX="0" frameY="-16" frameWidth="325" frameHeight="289"/>
+	<SubTexture name="mongus down0001" x="0" y="0" width="325" height="272" frameX="0" frameY="-16" frameWidth="325" frameHeight="289"/>
+	<SubTexture name="mongus down0002" x="325" y="0" width="309" height="287" frameX="-8" frameY="-1" frameWidth="325" frameHeight="289"/>
+	<SubTexture name="mongus down0003" x="325" y="0" width="309" height="287" frameX="-8" frameY="-1" frameWidth="325" frameHeight="289"/>
+	<SubTexture name="mongus down0004" x="634" y="0" width="307" height="289" frameX="-9" frameY="0" frameWidth="325" frameHeight="289"/>
+	<SubTexture name="mongus down0005" x="634" y="0" width="307" height="289" frameX="-9" frameY="0" frameWidth="325" frameHeight="289"/>
+	<SubTexture name="mongus down0006" x="325" y="0" width="309" height="287" frameX="-8" frameY="-1" frameWidth="325" frameHeight="289"/>
+	<SubTexture name="mongus down0007" x="325" y="0" width="309" height="287" frameX="-8" frameY="-1" frameWidth="325" frameHeight="289"/>
+	<SubTexture name="mongus down0008" x="634" y="0" width="307" height="289" frameX="-9" frameY="0" frameWidth="325" frameHeight="289"/>
+	<SubTexture name="mongus down0009" x="634" y="0" width="307" height="289" frameX="-9" frameY="0" frameWidth="325" frameHeight="289"/>
+	<SubTexture name="mongus down0010" x="325" y="0" width="309" height="287" frameX="-8" frameY="-1" frameWidth="325" frameHeight="289"/>
+	<SubTexture name="mongus down0011" x="325" y="0" width="309" height="287" frameX="-8" frameY="-1" frameWidth="325" frameHeight="289"/>
+	<SubTexture name="mongus down0012" x="634" y="0" width="307" height="289" frameX="-9" frameY="0" frameWidth="325" frameHeight="289"/>
+	<SubTexture name="mongus down0013" x="634" y="0" width="307" height="289" frameX="-9" frameY="0" frameWidth="325" frameHeight="289"/>
+	<SubTexture name="mongus down0014" x="325" y="0" width="309" height="287" frameX="-8" frameY="-1" frameWidth="325" frameHeight="289"/>
+	<SubTexture name="mongus idle0000" x="941" y="0" width="546" height="350" frameX="0" frameY="-45" frameWidth="546" frameHeight="395"/>
+	<SubTexture name="mongus idle0001" x="941" y="0" width="546" height="350" frameX="0" frameY="-45" frameWidth="546" frameHeight="395"/>
+	<SubTexture name="mongus idle0002" x="1487" y="0" width="540" height="353" frameX="-6" frameY="-42" frameWidth="546" frameHeight="395"/>
+	<SubTexture name="mongus idle0003" x="1487" y="0" width="540" height="353" frameX="-6" frameY="-42" frameWidth="546" frameHeight="395"/>
+	<SubTexture name="mongus idle0004" x="2027" y="0" width="520" height="391" frameX="-18" frameY="-4" frameWidth="546" frameHeight="395"/>
+	<SubTexture name="mongus idle0005" x="2027" y="0" width="520" height="391" frameX="-18" frameY="-4" frameWidth="546" frameHeight="395"/>
+	<SubTexture name="mongus idle0006" x="2547" y="0" width="516" height="395" frameX="-20" frameY="0" frameWidth="546" frameHeight="395"/>
+	<SubTexture name="mongus idle0007" x="2547" y="0" width="516" height="395" frameX="-20" frameY="0" frameWidth="546" frameHeight="395"/>
+	<SubTexture name="mongus idle0008" x="3063" y="0" width="516" height="395" frameX="-20" frameY="0" frameWidth="546" frameHeight="395"/>
+	<SubTexture name="mongus idle0009" x="3063" y="0" width="516" height="395" frameX="-20" frameY="0" frameWidth="546" frameHeight="395"/>
+	<SubTexture name="mongus idle0010" x="2547" y="0" width="516" height="395" frameX="-20" frameY="0" frameWidth="546" frameHeight="395"/>
+	<SubTexture name="mongus idle0011" x="2547" y="0" width="516" height="395" frameX="-20" frameY="0" frameWidth="546" frameHeight="395"/>
+	<SubTexture name="mongus idle0012" x="3063" y="0" width="516" height="395" frameX="-20" frameY="0" frameWidth="546" frameHeight="395"/>
+	<SubTexture name="mongus idle0013" x="3063" y="0" width="516" height="395" frameX="-20" frameY="0" frameWidth="546" frameHeight="395"/>
+	<SubTexture name="mongus idle0014" x="2547" y="0" width="516" height="395" frameX="-20" frameY="0" frameWidth="546" frameHeight="395"/>
+	<SubTexture name="mongus left0000" x="0" y="395" width="538" height="441" frameX="0" frameY="0" frameWidth="542" frameHeight="441"/>
+	<SubTexture name="mongus left0001" x="0" y="395" width="538" height="441" frameX="0" frameY="0" frameWidth="542" frameHeight="441"/>
+	<SubTexture name="mongus left0002" x="538" y="395" width="538" height="429" frameX="-4" frameY="-8" frameWidth="542" frameHeight="441"/>
+	<SubTexture name="mongus left0003" x="538" y="395" width="538" height="429" frameX="-4" frameY="-8" frameWidth="542" frameHeight="441"/>
+	<SubTexture name="mongus left0004" x="1076" y="395" width="534" height="429" frameX="-6" frameY="-8" frameWidth="542" frameHeight="441"/>
+	<SubTexture name="mongus left0005" x="1076" y="395" width="534" height="429" frameX="-6" frameY="-8" frameWidth="542" frameHeight="441"/>
+	<SubTexture name="mongus left0006" x="538" y="395" width="538" height="429" frameX="-4" frameY="-8" frameWidth="542" frameHeight="441"/>
+	<SubTexture name="mongus left0007" x="538" y="395" width="538" height="429" frameX="-4" frameY="-8" frameWidth="542" frameHeight="441"/>
+	<SubTexture name="mongus left0008" x="1076" y="395" width="534" height="429" frameX="-6" frameY="-8" frameWidth="542" frameHeight="441"/>
+	<SubTexture name="mongus left0009" x="1076" y="395" width="534" height="429" frameX="-6" frameY="-8" frameWidth="542" frameHeight="441"/>
+	<SubTexture name="mongus left0010" x="538" y="395" width="538" height="429" frameX="-4" frameY="-8" frameWidth="542" frameHeight="441"/>
+	<SubTexture name="mongus left0011" x="538" y="395" width="538" height="429" frameX="-4" frameY="-8" frameWidth="542" frameHeight="441"/>
+	<SubTexture name="mongus left0012" x="1076" y="395" width="534" height="429" frameX="-6" frameY="-8" frameWidth="542" frameHeight="441"/>
+	<SubTexture name="mongus left0013" x="1076" y="395" width="534" height="429" frameX="-6" frameY="-8" frameWidth="542" frameHeight="441"/>
+	<SubTexture name="mongus left0014" x="538" y="395" width="538" height="429" frameX="-4" frameY="-8" frameWidth="542" frameHeight="441"/>
+	<SubTexture name="mongus right0000" x="1610" y="395" width="627" height="413"/>
+	<SubTexture name="mongus right0001" x="1610" y="395" width="627" height="413"/>
+	<SubTexture name="mongus right0002" x="2237" y="395" width="617" height="384" frameX="0" frameY="-15" frameWidth="627" frameHeight="413"/>
+	<SubTexture name="mongus right0003" x="2237" y="395" width="617" height="384" frameX="0" frameY="-15" frameWidth="627" frameHeight="413"/>
+	<SubTexture name="mongus right0004" x="2854" y="395" width="615" height="383" frameX="0" frameY="-16" frameWidth="627" frameHeight="413"/>
+	<SubTexture name="mongus right0005" x="2854" y="395" width="615" height="383" frameX="0" frameY="-16" frameWidth="627" frameHeight="413"/>
+	<SubTexture name="mongus right0006" x="2237" y="395" width="617" height="384" frameX="0" frameY="-15" frameWidth="627" frameHeight="413"/>
+	<SubTexture name="mongus right0007" x="2237" y="395" width="617" height="384" frameX="0" frameY="-15" frameWidth="627" frameHeight="413"/>
+	<SubTexture name="mongus right0008" x="2854" y="395" width="615" height="383" frameX="0" frameY="-16" frameWidth="627" frameHeight="413"/>
+	<SubTexture name="mongus right0009" x="2854" y="395" width="615" height="383" frameX="0" frameY="-16" frameWidth="627" frameHeight="413"/>
+	<SubTexture name="mongus right0010" x="2237" y="395" width="617" height="384" frameX="0" frameY="-15" frameWidth="627" frameHeight="413"/>
+	<SubTexture name="mongus right0011" x="2237" y="395" width="617" height="384" frameX="0" frameY="-15" frameWidth="627" frameHeight="413"/>
+	<SubTexture name="mongus right0012" x="2854" y="395" width="615" height="383" frameX="0" frameY="-16" frameWidth="627" frameHeight="413"/>
+	<SubTexture name="mongus right0013" x="2854" y="395" width="615" height="383" frameX="0" frameY="-16" frameWidth="627" frameHeight="413"/>
+	<SubTexture name="mongus right0014" x="2237" y="395" width="617" height="384" frameX="0" frameY="-15" frameWidth="627" frameHeight="413"/>
+	<SubTexture name="mongus up0000" x="3469" y="395" width="294" height="648" frameX="-18" frameY="0" frameWidth="330" frameHeight="649"/>
+	<SubTexture name="mongus up0001" x="3469" y="395" width="294" height="648" frameX="-18" frameY="0" frameWidth="330" frameHeight="649"/>
+	<SubTexture name="mongus up0002" x="3763" y="395" width="330" height="627" frameX="0" frameY="-22" frameWidth="330" frameHeight="649"/>
+	<SubTexture name="mongus up0003" x="3763" y="395" width="330" height="627" frameX="0" frameY="-22" frameWidth="330" frameHeight="649"/>
+	<SubTexture name="mongus up0004" x="0" y="1043" width="330" height="627" frameX="0" frameY="-22" frameWidth="330" frameHeight="649"/>
+	<SubTexture name="mongus up0005" x="0" y="1043" width="330" height="627" frameX="0" frameY="-22" frameWidth="330" frameHeight="649"/>
+	<SubTexture name="mongus up0006" x="3763" y="395" width="330" height="627" frameX="0" frameY="-22" frameWidth="330" frameHeight="649"/>
+	<SubTexture name="mongus up0007" x="3763" y="395" width="330" height="627" frameX="0" frameY="-22" frameWidth="330" frameHeight="649"/>
+	<SubTexture name="mongus up0008" x="0" y="1043" width="330" height="627" frameX="0" frameY="-22" frameWidth="330" frameHeight="649"/>
+	<SubTexture name="mongus up0009" x="0" y="1043" width="330" height="627" frameX="0" frameY="-22" frameWidth="330" frameHeight="649"/>
+	<SubTexture name="mongus up0010" x="3763" y="395" width="330" height="627" frameX="0" frameY="-22" frameWidth="330" frameHeight="649"/>
+	<SubTexture name="mongus up0011" x="3763" y="395" width="330" height="627" frameX="0" frameY="-22" frameWidth="330" frameHeight="649"/>
+	<SubTexture name="mongus up0012" x="0" y="1043" width="330" height="627" frameX="0" frameY="-22" frameWidth="330" frameHeight="649"/>
+	<SubTexture name="mongus up0013" x="0" y="1043" width="330" height="627" frameX="0" frameY="-22" frameWidth="330" frameHeight="649"/>
+	<SubTexture name="mongus up0014" x="3763" y="395" width="330" height="627" frameX="0" frameY="-22" frameWidth="330" frameHeight="649"/>
+</TextureAtlas>

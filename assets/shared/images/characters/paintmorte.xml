@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="paintmorte.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="morte10000" x="0" y="0" width="233" height="461" frameX="-53" frameY="0" frameWidth="339" frameHeight="462"/>
+	<SubTexture name="morte10001" x="0" y="0" width="233" height="461" frameX="-53" frameY="0" frameWidth="339" frameHeight="462"/>
+	<SubTexture name="morte10002" x="233" y="0" width="325" height="427" frameX="-7" frameY="-34" frameWidth="339" frameHeight="462"/>
+	<SubTexture name="morte10003" x="233" y="0" width="325" height="427" frameX="-7" frameY="-34" frameWidth="339" frameHeight="462"/>
+	<SubTexture name="morte10004" x="558" y="0" width="339" height="403" frameX="0" frameY="-59" frameWidth="339" frameHeight="462"/>
+	<SubTexture name="morte10005" x="558" y="0" width="339" height="403" frameX="0" frameY="-59" frameWidth="339" frameHeight="462"/>
+	<SubTexture name="morte10006" x="897" y="0" width="317" height="419" frameX="-11" frameY="-43" frameWidth="339" frameHeight="462"/>
+	<SubTexture name="morte10007" x="897" y="0" width="317" height="419" frameX="-11" frameY="-43" frameWidth="339" frameHeight="462"/>
+	<SubTexture name="morte10008" x="1214" y="0" width="317" height="415" frameX="-11" frameY="-47" frameWidth="339" frameHeight="462"/>
+	<SubTexture name="morte10009" x="1214" y="0" width="317" height="415" frameX="-11" frameY="-47" frameWidth="339" frameHeight="462"/>
+	<SubTexture name="morte10010" x="1214" y="0" width="317" height="415" frameX="-11" frameY="-47" frameWidth="339" frameHeight="462"/>
+	<SubTexture name="morte10011" x="1214" y="0" width="317" height="415" frameX="-11" frameY="-47" frameWidth="339" frameHeight="462"/>
+	<SubTexture name="morte10012" x="1214" y="0" width="317" height="415" frameX="-11" frameY="-47" frameWidth="339" frameHeight="462"/>
+	<SubTexture name="morte10013" x="1214" y="0" width="317" height="415" frameX="-11" frameY="-47" frameWidth="339" frameHeight="462"/>
+	<SubTexture name="morte10014" x="1214" y="0" width="317" height="415" frameX="-11" frameY="-47" frameWidth="339" frameHeight="462"/>
+	<SubTexture name="morte20000" x="1531" y="0" width="317" height="415" frameX="-283" frameY="0" frameWidth="1121" frameHeight="443"/>
+	<SubTexture name="morte20001" x="1531" y="0" width="317" height="415" frameX="-283" frameY="0" frameWidth="1121" frameHeight="443"/>
+	<SubTexture name="morte20002" x="0" y="461" width="388" height="415" frameX="-283" frameY="0" frameWidth="1121" frameHeight="443"/>
+	<SubTexture name="morte20003" x="0" y="461" width="388" height="415" frameX="-283" frameY="0" frameWidth="1121" frameHeight="443"/>
+	<SubTexture name="morte20004" x="388" y="461" width="515" height="415" frameX="-284" frameY="0" frameWidth="1121" frameHeight="443"/>
+	<SubTexture name="morte20005" x="388" y="461" width="515" height="415" frameX="-284" frameY="0" frameWidth="1121" frameHeight="443"/>
+	<SubTexture name="morte20006" x="903" y="461" width="837" height="415" frameX="-284" frameY="0" frameWidth="1121" frameHeight="443"/>
+	<SubTexture name="morte20007" x="903" y="461" width="837" height="415" frameX="-284" frameY="0" frameWidth="1121" frameHeight="443"/>
+	<SubTexture name="morte20008" x="903" y="461" width="837" height="415" frameX="-284" frameY="0" frameWidth="1121" frameHeight="443"/>
+	<SubTexture name="morte20009" x="903" y="461" width="837" height="415" frameX="-284" frameY="0" frameWidth="1121" frameHeight="443"/>
+	<SubTexture name="morte20010" x="903" y="461" width="837" height="415" frameX="-284" frameY="0" frameWidth="1121" frameHeight="443"/>
+	<SubTexture name="morte20011" x="0" y="876" width="328" height="415" frameX="-283" frameY="0" frameWidth="1121" frameHeight="443"/>
+	<SubTexture name="morte20012" x="0" y="876" width="328" height="415" frameX="-283" frameY="0" frameWidth="1121" frameHeight="443"/>
+	<SubTexture name="morte20013" x="328" y="876" width="599" height="238" frameX="0" frameY="-178" frameWidth="1121" frameHeight="443"/>
+	<SubTexture name="morte20014" x="328" y="876" width="599" height="238" frameX="0" frameY="-178" frameWidth="1121" frameHeight="443"/>
+	<SubTexture name="morte20015" x="927" y="876" width="543" height="111" frameX="-56" frameY="-305" frameWidth="1121" frameHeight="443"/>
+	<SubTexture name="morte20016" x="927" y="876" width="543" height="111" frameX="-56" frameY="-305" frameWidth="1121" frameHeight="443"/>
+	<SubTexture name="morte20017" x="1470" y="876" width="493" height="173" frameX="-81" frameY="-270" frameWidth="1121" frameHeight="443"/>
+	<SubTexture name="morte20018" x="1470" y="876" width="493" height="173" frameX="-81" frameY="-270" frameWidth="1121" frameHeight="443"/>
+	<SubTexture name="morte20019" x="0" y="1291" width="373" height="189" frameX="-139" frameY="-254" frameWidth="1121" frameHeight="443"/>
+	<SubTexture name="morte20020" x="0" y="1291" width="373" height="189" frameX="-139" frameY="-254" frameWidth="1121" frameHeight="443"/>
+	<SubTexture name="morte20021" x="0" y="1291" width="373" height="189" frameX="-139" frameY="-254" frameWidth="1121" frameHeight="443"/>
+	<SubTexture name="morte20022" x="0" y="1291" width="373" height="189" frameX="-139" frameY="-254" frameWidth="1121" frameHeight="443"/>
+	<SubTexture name="morte20023" x="0" y="1291" width="373" height="189" frameX="-139" frameY="-254" frameWidth="1121" frameHeight="443"/>
+	<SubTexture name="morte20024" x="0" y="1291" width="373" height="189" frameX="-139" frameY="-254" frameWidth="1121" frameHeight="443"/>
+	<SubTexture name="morteloop0000" x="0" y="1291" width="373" height="189" frameX="-53" frameY="0" frameWidth="1121" frameHeight="443"/>
+	<SubTexture name="morteloop0001" x="0" y="1291" width="373" height="189" frameX="-53" frameY="0" frameWidth="1121" frameHeight="443"/>
+	<SubTexture name="morteloop0002" x="373" y="1291" width="417" height="173" frameX="-31" frameY="-18" frameWidth="478" frameHeight="191"/>
+	<SubTexture name="morteloop0003" x="373" y="1291" width="417" height="173" frameX="-31" frameY="-18" frameWidth="478" frameHeight="191"/>
+	<SubTexture name="morteloop0004" x="790" y="1291" width="478" height="145" frameX="0" frameY="-46" frameWidth="478" frameHeight="191"/>
+	<SubTexture name="morteloop0005" x="790" y="1291" width="478" height="145" frameX="0" frameY="-46" frameWidth="478" frameHeight="191"/>
+	<SubTexture name="morteloop0006" x="1268" y="1291" width="347" height="165" frameX="-66" frameY="-26" frameWidth="478" frameHeight="191"/>
+</TextureAtlas>

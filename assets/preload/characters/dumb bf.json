@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-280
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BF NOTE DOWN0",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				20,
+				-235
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BF idle dance0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				-240
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BF NOTE LEFT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-13,
+				-205
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BF NOTE UP0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				-240
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BF NOTE RIGHT0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bf burro test",
+	"position": [
+		0,
+		100
+	],
+	"healthicon": "bf burro",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		96,
+		255
+	],
+	"camera_position": [
+		20,
+		340
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

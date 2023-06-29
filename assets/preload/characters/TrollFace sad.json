@@ -1,0 +1,142 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				287,
+				-181
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "L"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				-399
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "D"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-34,
+				-132
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "U"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				74,
+				-305
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "R"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-199,
+				-295
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "I"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-173,
+				-160
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "idle",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-9,
+				10
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "left",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				27
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "right",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-6,
+				50
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "up",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sad_troll",
+	"position": [
+		100,
+		0
+	],
+	"healthicon": "TrollFaceSAD",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-130,
+		170
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

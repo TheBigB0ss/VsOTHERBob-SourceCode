@@ -1,0 +1,68 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "FUCK"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gary",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bababoia"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "another generic character"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gary",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Well apparently you guys made my friend Bob very upset"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I just wanted a normal rap battle"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "every opponent i face turns into a demon\\nafter the third song"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gary",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "well fnf mods are like that lmao"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "lol"
+		}
+	]
+}

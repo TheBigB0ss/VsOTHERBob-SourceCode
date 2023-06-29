@@ -1,0 +1,92 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.005,
+			"portrait": "bob",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "laa laa laa "
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bro what fuck is you"
+		},
+		{
+			"sound": "",
+			"speed": 0.105,
+			"portrait": "bob",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i am THE BOB"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Vs Bob "
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bob",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "fuck you >:( \\ni'm not that Bob\"!!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bob",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i am the OTHER Bob lol"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bruh"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "what to sing "
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bob",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "why not "
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": ":D"
+		},
+		{
+			"sound": "",
+			"speed": 0,
+			"portrait": "bob",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\\naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\\naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\\naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+		}
+	]
+}

@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				195,
+				143
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "3D_BF ded"
+		},
+		{
+			"offsets": [
+				183,
+				190
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "3D_BF muerto loop"
+		},
+		{
+			"offsets": [
+				126,
+				94
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "3D_BF confir"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/3D_BF",
+	"position": [
+		250,
+		310
+	],
+	"healthicon": "bf-pixel",
+	"flip_x": true,
+	"healthbar_colors": [
+		123,
+		214,
+		246
+	],
+	"camera_position": [
+		150,
+		-150
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

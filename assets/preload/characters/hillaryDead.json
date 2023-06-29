@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				165,
+				13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "BF dies"
+		},
+		{
+			"offsets": [
+				165,
+				13
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "BF Dead Loop"
+		},
+		{
+			"offsets": [
+				315,
+				173
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "BF Dead confirm"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/hillaryDead",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf-pixel",
+	"flip_x": true,
+	"healthbar_colors": [
+		123,
+		214,
+		246
+	],
+	"camera_position": [
+		-320,
+		10
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}
