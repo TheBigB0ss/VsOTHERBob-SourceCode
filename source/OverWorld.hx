@@ -20,7 +20,7 @@ class OverWorld extends MusicBeatState
 
     var text:FlxText;
 
-    var velocity:Float = 0.25;
+    var velocity:Float = 0.30;
 
 	override public function create():Void
     {

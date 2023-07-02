@@ -412,7 +412,7 @@ class PlayState extends MusicBeatState
 	// puppet stuff
 	var puppet:FlxSprite;
     var puppetBar:FlxBar;
-	var puppetCountdown:Float = 18;
+	var puppetCountdown:Float = 15;
 	var musicBox:FlxSprite;
 	var haveMusicBox:Bool;
 
@@ -958,21 +958,20 @@ class PlayState extends MusicBeatState
 			case 'dont_use_drugs': // drugs and rap
 				curStage = 'dont_use_drugs';
 
-				var space:FlxSprite = new FlxSprite().loadGraphic(Paths.image('bgs/drugs/space'));
+				var space:FlxSprite = new FlxSprite();
+				space.loadGraphic(Paths.image('bgs/drugs/space'));
 				space.screenCenter();
 				add(space);
 
-				var bg1:FlxSprite = new FlxSprite();
-				bg1.loadGraphic(Paths.image('bgs/drugs/moon'));
-				bg1.scrollFactor.set(1.3, 1.3);
-				bg1.screenCenter();
-				add(bg1);
+				var moon:FlxSprite = new FlxSprite();
+				moon.loadGraphic(Paths.image('bgs/drugs/moon'));
+				moon.screenCenter();
+				add(moon);
 
-				var bg2:FlxSprite = new FlxSprite();
-				bg2.loadGraphic(Paths.image('bgs/drugs/front'));
-				bg2.scrollFactor.set(0.9, 0.9);
-				bg2.screenCenter();
-				add(bg2);
+				var ground:FlxSprite = new FlxSprite();
+				ground.loadGraphic(Paths.image('bgs/drugs/front'));
+				ground.screenCenter();
+				add(ground);
 
 				wiggleEffect = new WiggleEffect();
 				wiggleEffect.effectType = WiggleEffectType.DREAMY;
@@ -1118,7 +1117,7 @@ class PlayState extends MusicBeatState
 			case 'mokey1':
 			    curStage = 'mokey1';
 						
-				var bg:BobCustomBg = new BobCustomBg(345, 'bgs/nothing/mokey1');
+				var bg:BobCustomBg = new BobCustomBg(-275, 340, 'bgs/nothing/mokey1');
 				add(bg);
 
 			case 'suicide': // suffering
@@ -1243,11 +1242,10 @@ class PlayState extends MusicBeatState
 				var bg:BobCustomBg = new BobCustomBg('bgs/Jonh House/bg');
 				add(bg);
 
-				var bed:BobCustomBg = new BobCustomBg(60, 260, 'bgs/Jonh House/Bed');
-				bed.scrollFactor.set(1.1, 1.1);
+				var bed:BobCustomBg = new BobCustomBg(65, 290, 'bgs/Jonh House/Bed');
 				add(bed);
 
-				var oddie:BobCustomBg = new BobCustomBg(930, 540, 'bgs/Jonh House/oddie');
+				var oddie:BobCustomBg = new BobCustomBg(810, 740, 'bgs/Jonh House/oddie');
 				//oddie.scrollFactor.set(0.3, 0.3);
 				add(oddie);
 
@@ -3074,26 +3072,27 @@ class PlayState extends MusicBeatState
 		}
 
 		// this leaves the arrows in the middle lol
-		switch(curSong)
-		{
-			case 'midnight-snack' | 'malware':
-				playerStrums.forEach(function(spr:FlxSprite)
-				{
-		    		FlxTween.tween(spr, {x: (spr.x - 320)}, 0.2, {ease: FlxEase.quadOut});
-				});
-
-			case 'curse':
-				playerStrums.forEach(function(spr:FlxSprite)
-				{
-					FlxTween.tween(spr, {x: (spr.x - 320)}, 0.2, {ease: FlxEase.quadOut});
-				});
-		
-				opponentStrums.forEach(function(spr:FlxSprite)
-				{
-					spr.scale.set(0.030, 0.030);
-				    FlxTween.tween(spr, {x: (spr.x - -320)}, 0.2, {ease: FlxEase.quadOut});
-					spr.alpha = 0.30;
-				});	
+		if(!ClientPrefs.middleScroll){
+			switch(curSong)
+			{
+				case 'midnight-snack' | 'malware':
+					playerStrums.forEach(function(spr:FlxSprite)
+					{
+						FlxTween.tween(spr, {x: (spr.x - 320)}, 0.2, {ease: FlxEase.quadOut});
+					});
+	
+				case 'curse':
+					playerStrums.forEach(function(spr:FlxSprite)
+					{
+						FlxTween.tween(spr, {x: (spr.x - 320)}, 0.2, {ease: FlxEase.quadOut});
+					});
+					opponentStrums.forEach(function(spr:FlxSprite)
+					{
+						spr.scale.set(0.030, 0.030);
+						FlxTween.tween(spr, {x: (spr.x - -320)}, 0.2, {ease: FlxEase.quadOut});
+						spr.alpha = 0.30;
+					});	
+			}
 		}
 		
 		startingSong = false;
@@ -3668,7 +3667,7 @@ class PlayState extends MusicBeatState
 		counter.text = 'Total Hits: ' + songHits + '\n' + 'Sicks: ' + sicks + '\n' + 'Goods: ' + goods + '\n' + 'Bads: ' + bads + '\n' + 'Shits: ' + shits + '\n';
 		coinText.text = 'Coins: ' + Std.string(fiveCoins) + '/5';
 
-		puppetCountdown -= 0.001;
+		puppetCountdown -= 0.003;
 
 		if(haveMusicBox)
 		{
@@ -3677,7 +3676,7 @@ class PlayState extends MusicBeatState
 			FlxMouseEventManager.add(musicBox,function onMouseDown(musicBox:FlxSprite)
 			{
 				if (puppetBar.percent < 100){
-					puppetCountdown += 0.25;
+					puppetCountdown += 0.35;
 				} else if (puppetBar.percent > 100){
 					puppetCountdown += 0;
 				} 
@@ -3958,9 +3957,9 @@ class PlayState extends MusicBeatState
 		if (curStage != 'other_booba' && curStage != 'florest' && curStage != 'Starved'){
 
 			if(ratingName == '???') {
-				scoreTxt.text = 'Score: ' + songScore + ' / Combo Breaks : ' + songMisses + ' / Rating : ' + ratingName;
+				scoreTxt.text = 'SCORE: ' + songScore + ' / COMBO BREAKS : ' + songMisses + ' / RATING : ' + ratingName;
 			} else {
-				scoreTxt.text = 'Score: ' + songScore + ' / Combo Breaks : ' + songMisses + ' /  Rating : ' + ratingName + ' (' + Highscore.floorDecimal(ratingPercent * 100, 2) + '%)' + ' - ' + ratingFC;
+				scoreTxt.text = 'SCORE: ' + songScore + ' / COMBO BREAKS : ' + songMisses + ' / RATING : ' + ratingName + ' (' + Highscore.floorDecimal(ratingPercent * 100, 2) + '%)' + ' - ' + ratingFC;
 			}
 		}else{
 			scoreTxt.text = 'Score: ' + songScore + ' / Misses: ' + songMisses;
@@ -5111,15 +5110,31 @@ class PlayState extends MusicBeatState
 				});
 
 			case 'note Shit':
-				playerStrums.forEach(function(spr:FlxSprite)
+				if(ClientPrefs.middleScroll)
 				{
-					FlxTween.tween(spr, {x: (spr.x + -630)}, 4, {ease: FlxEase.quadIn, type: PINGPONG});
-				});
+					playerStrums.forEach(function(spr:FlxSprite)
+					{
+						FlxTween.tween(spr, {y: (spr.y + 340)}, 4, {ease: FlxEase.quadIn, type: PINGPONG});
+					});
+		
+					opponentStrums.forEach(function(spr:FlxSprite)
+					{
+						FlxTween.tween(spr, {y: (spr.y + -340)}, 4, {ease: FlxEase.quadIn, type: PINGPONG});
+					});
+				}
 
-				opponentStrums.forEach(function(spr:FlxSprite)
+				if(!ClientPrefs.middleScroll)
 				{
-					FlxTween.tween(spr, {x: (spr.x + 630)}, 4, {ease: FlxEase.quadIn, type: PINGPONG});
-				});
+					playerStrums.forEach(function(spr:FlxSprite)
+					{
+						FlxTween.tween(spr, {x: (spr.x + -630)}, 4, {ease: FlxEase.quadIn, type: PINGPONG});
+					});
+		
+					opponentStrums.forEach(function(spr:FlxSprite)
+					{
+			    		FlxTween.tween(spr, {x: (spr.x + 630)}, 4, {ease: FlxEase.quadIn, type: PINGPONG});
+					});
+				}
 
 			case 'Funny :clown:':
 			    FlxTween.tween(boyfriend, {y: (boyfriend.y + -630)}, 4, {ease: FlxEase.quadIn, type: PINGPONG});

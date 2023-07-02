@@ -57,7 +57,7 @@ class CodeState extends MusicBeatState
         add(bg);
 
         text = new FlxText();
-        text.text = "- put the codes here -\n for more information check \n the txt called \"data/codes.txt.\" \n";
+        text.text = "- put the codes here -\n for more information check \n the txt called \"codes.txt.\" \n";
         text.setFormat(Paths.font("pixelShit.ttf"), 32, FlxColor.BLACK, CENTER, FlxTextBorderStyle.OUTLINE, FlxColor.WHITE);
         text.screenCenter(X);
         add(text);
@@ -76,7 +76,7 @@ class CodeState extends MusicBeatState
         if (FlxG.keys.justPressed.ENTER){
 
             switch(secretText.text){
-                case 'Faraone productions':
+                case 'faraone productions':
                     FlxG.sound.play(Paths.sound('confirmMenu'), 20);
                     
                 	new FlxTimer().start(0.2, function(tmr:FlxTimer){      
@@ -85,7 +85,7 @@ class CodeState extends MusicBeatState
                         LoadingState.loadAndSwitchState(new PlayState());
 			    	});
                     
-                case 'don\'t run from me':
+                case 'curse':
                     FlxG.sound.play(Paths.sound('confirmMenu'), 20);
 
                     new FlxTimer().start(0.2, function(tmr:FlxTimer){
