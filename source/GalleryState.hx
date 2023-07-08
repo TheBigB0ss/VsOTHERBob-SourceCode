@@ -112,7 +112,7 @@ class GalleryState extends MusicBeatState
 		['art by: NDC', 'https://twitter.com/ndcpalitin13'],
 		['art by: babakolol', 'https://twitter.com/Babakaaaaa'],
 		['art by: JakeFreeBird', 'https://twitter.com/jakefree_bird'],
-		['art by: GabyyDF', 'https://twitter.com/df_biell'],
+		['art by: BiellDF', 'https://twitter.com/df_biell'],
 		['art by: Luluoao34', 'https://twitter.com/Luluoao34'],
 		['art by: CamomilaXD', 'https://twitter.com/CamomilaXD'],
 		['art by: Octavio', 'https://twitter.com/octavio12n'],

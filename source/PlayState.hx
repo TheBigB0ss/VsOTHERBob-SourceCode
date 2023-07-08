@@ -2034,7 +2034,7 @@ class PlayState extends MusicBeatState
 		sus = new BadAmongusGRRR(280, 530);
 		sus.cameras = [camHUD];
 
-		puppet = new FlxSprite(750, 685);
+		puppet = new FlxSprite(880, 685);
 		puppet.frames = Paths.getSparrowAtlas('puppet/PUPPET');
 		puppet.animation.addByPrefix('idle', "jumpscare", 10);
 		puppet.scale.set(3.8, 3.8);
@@ -5585,7 +5585,7 @@ class PlayState extends MusicBeatState
 			return;
 		} else {
 			var achieve:String = checkForAchievement(['Week_bob_1', 'Week_bob_2', 'Week_bob_3', 'cheater', 'idiot', 'awesome', 'elections', 'anomaly',
-		    'cannibal', 'god', 'party', 'ourple','you are a shit', 'fnf god']);
+		    'cannibal', 'god', 'party', 'ourple']);
 
 			if(achieve != null) {
 				startAchievement(achieve);
@@ -7639,16 +7639,6 @@ class PlayState extends MusicBeatState
 
 					case 'ourple':
 						if(Paths.formatToSongPath(SONG.song) == 'ourple' && !usedPractice) {
-							unlock = true;
-						}
-
-					case 'you are a shit':
-						if(songMisses >= 100) {
-							unlock = true;
-						}
-
-					case 'fnf god':
-						if(songMisses < 1 && ratingPercent >= 1 && !usedPractice) {
 							unlock = true;
 						}
 				}

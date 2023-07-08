@@ -22,9 +22,7 @@ class Achievements {
 		["fresh meat",			"defeat Starved Bob and don't lose any insanity points",				'cannibal',			false],
 		["i am god",			"???",				'god',			true],
 		["PARTY TIME",			"defeat Gabriel",				'party',			false],
-		["and why he ourple",			"play the ourple song",				'ourple',			false],
-		["SHIT !1!1!1!1!1!1!",			"miss 100 notes in a song",				'you are a shit',			false],
-		["FNF GOD",			"don't miss a note and get a rating of 100",				'fnf god',			false]
+		["and why he ourple",			"play the ourple song",				'ourple',			false]
 	];
 	public static var achievementsMap:Map<String, Bool> = new Map<String, Bool>();
 
