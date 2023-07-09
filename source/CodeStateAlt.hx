@@ -58,7 +58,7 @@ class CodeStateAlt extends MusicBeatState
         for (i in 0...botonsShit.length)
         {
             var botons:FlxSprite = new FlxSprite();
-            botons.loadGraphic(Paths.image('botons/' + botonsShit[i]));
+            botons.loadGraphic(Paths.image('buttons/' + botonsShit[i]));
             botons.antialiasing = ClientPrefs.globalAntialiasing;
 
             switch(i)

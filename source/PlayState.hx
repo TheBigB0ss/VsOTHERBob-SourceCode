@@ -2736,7 +2736,7 @@ class PlayState extends MusicBeatState
 
 					skipCountdown = true;
 
-				case 'other_booba' | 'haha BG' | 'Jonh House' | 'TrollBG' | 'suicide' | 'mokey' | 'mokey1' | 'Glitch Stage' | 'Sanic Stage':
+				case 'haha BG' | 'Jonh House' | 'TrollBG' | 'suicide' | 'mokey' | 'mokey1' | 'Glitch Stage' | 'Sanic Stage':
 					skipCountdown = true;
 			}
 
@@ -2787,7 +2787,8 @@ class PlayState extends MusicBeatState
 
 				var introAssets:Map<String, Array<String>> = new Map<String, Array<String>>();
 				introAssets.set('default', ['animated intro/ready', 'animated intro/set', 'animated intro/fuckyeah', 'animated intro/go']);
-				introAssets.set('pixel', ['pixelUI/ready-pixel', 'pixelUI/set-pixel', 'pixelUI/fuckyeah-pixel', 'pixelUI/date-pixel']);
+				introAssets.set('pixel', ['pixelUI/3', 'pixelUI/2', 'pixelUI/1', 'pixelUI/go']);
+				// NEW STUFF
 				introAssets.set('3D', ['3DUI/ready-3D', '3DUI/set-3D', '3DUI/fuckyeah-3D', '3DUI/go-3D']);
 				introAssets.set('awesome', ['awesomeUI/ready-awesome', 'awesomeUI/set-awesome',  'awesomeUI/fuckyeah-awesome', 'awesomeUI/go-awesome']);
 				introAssets.set('ourple', ['Ourple/onyourmarks', 'Ourple/ready-ourple',  'Ourple/set-ourple', 'Ourple/go-ourple']);
@@ -2906,7 +2907,7 @@ class PlayState extends MusicBeatState
 						countdownfuckyeah.scrollFactor.set();
 
 						if (PlayState.isPixelStage)
-							countdownGo.setGraphicSize(Std.int(countdownGo.width * daPixelZoom));
+							countdownfuckyeah.setGraphicSize(Std.int(countdownfuckyeah.width * daPixelZoom));
 
 						countdownfuckyeah.updateHitbox();
 
@@ -5960,7 +5961,7 @@ class PlayState extends MusicBeatState
 		rating.acceleration.y = 550;
 		rating.velocity.y -= FlxG.random.int(140, 175);
 		rating.velocity.x -= FlxG.random.int(0, 10);
-		//rating.angle = FlxG.random.float(-8.5, 15.3);
+		rating.angle = FlxG.random.float(-8.5, 15.3);
 		rating.x += ClientPrefs.comboOffset[0];
 		rating.y -= ClientPrefs.comboOffset[1];
 
@@ -5989,11 +5990,10 @@ class PlayState extends MusicBeatState
 			startDelay: Conductor.crochet * 0.001
     	});
 
-		/*switch(curStage){
+		switch(curStage){
 			case 'ourpleBg' | 'florest' | 'Glitch Stage' | 'sherek' | 'BOB SCENE WEEK 3D' | 'politic':
 				rating.angle = FlxG.random.float(1.0, 1.0);
-				comboSpr.angle = FlxG.random.float(1.0, 1.0);
-		}*/
+		}
 
 		comboSpr.velocity.x += FlxG.random.int(1, 10);
 		insert(members.indexOf(strumLineNotes), rating);
